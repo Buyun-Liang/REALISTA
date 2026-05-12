@@ -23,16 +23,13 @@ Large language models (LLMs) achieve strong performance across many tasks but re
 
 ![REALISTA Attack Generation](teaser_figure.png)
 
-**Figure 1. Illustrative example of attack generation in REALISTA.** Starting from the original prompt $ x_0$, the encoder $\phi$ maps it to its latent representation $ z_0$. A perturbation composed from edit directions is added to obtain $ z$, which is then decoded by $\psi$ back into the prompt space. The resulting adversarial prompt $ x$ remains both semantically coherent and semantically equivalent to the original $ x_0$, while inducing a hallucination.
-
-
-<!-- Starting from the original prompt $ x_0$, the encoder maps it to a latent representation. REALISTA then adds a perturbation composed from semantically meaningful edit directions and decodes the resulting latent back into the prompt space. The generated adversarial prompt remains semantically coherent and semantically equivalent to the original prompt while inducing a hallucination. -->
+**Figure 1. Illustrative example of attack generation in REALISTA.** Starting from the original prompt $x_0$, the encoder $\phi$ maps it to its latent representation $z_0$. A perturbation composed from edit directions is added to obtain $z$, which is then decoded by $\psi$ back into the prompt space. The resulting adversarial prompt $x$ remains both semantically coherent and semantically equivalent to the original $x_0$, while inducing a hallucination.
 
 ![REALISTA Framework](framework_figure_new.png)
 
-**Figure 2. Framework Overview.** (Left) *Input-dependent edit dictionary construction*. We employ a concept optimization procedure to construct a set of latent concepts ${ c^{(1)}, \ldots,  c^{(n)}}$ conditioned on the original prompt $ x_0$ and WordNet. These concepts are assembled into an edit dictionary $ D$, where each column corresponds to an interpretable editing direction $ z^{(i)} =  c^{(i)} -  z_0$. (Right) *REALISTA overview*. REALISTA optimizes the editing strength vector $ \delta$ and projects it onto a scaled latent simplex at each iteration. This latent simplex constraint is critical for preserving semantic equivalence between the original prompt and the adversarial prompt. The optimized $ \delta$ is then used to construct the adversarial latent representation $ z$.
+**Figure 2. Framework Overview.** (Left) *Input-dependent edit dictionary construction*. We employ a concept optimization procedure to construct a set of latent concepts ${c^{(1)}, \ldots, c^{(n)}}$ conditioned on the original prompt $x_0$ and WordNet. These concepts are assembled into an edit dictionary $D$, where each column corresponds to an interpretable editing direction $z^{(i)} = c^{(i)} - z_0$. (Right) *REALISTA overview*. REALISTA optimizes the editing strength vector $\delta$ and projects it onto a scaled latent simplex at each iteration. This latent simplex constraint is critical for preserving semantic equivalence between the original prompt and the adversarial prompt. The optimized $\delta$ is then used to construct the adversarial latent representation $z$.
 
-<!-- REALISTA first constructs an input-dependent edit dictionary from valid latent concepts. It then optimizes the editing strength vector over a scaled latent simplex. This simplex constraint is critical for preserving semantic equivalence between the original prompt and the adversarial prompt. -->
+
 
 ## 🚧 Code Status
 
