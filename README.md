@@ -4,10 +4,10 @@ This repository is the official implementation of the ICML 2026 paper [*REALISTA
 
 Authors: [Buyun Liang](https://buyunliang.org/), [Jinqi Luo](https://peterljq.github.io/), [Liangzu Peng](https://liangzu.github.io/), [Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Darshan Thaker](https://darshanthaker.github.io/), [Kaleab A. Kinfu](https://kaleab.me/), [Fengrui Tian](https://tianfr.github.io/), [Hamed Hassani](https://www.seas.upenn.edu/~hassani/), and [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/).
 
-[Project Website](#) · [ArXiv](#) · [ICML Page](#) · [Code](https://github.com/Buyun-Liang/REALISTA) · [Poster](#)
+[Project Website](#) · [ArXiv](https://arxiv.org/abs/2605.12813) · [ICML Page](#) · [Code](https://github.com/Buyun-Liang/REALISTA) · [Poster](#)
 
 [![Website](https://img.shields.io/badge/Website-REALISTA_Project-6f42c1)](#)
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.12813-b31b1b)](https://arxiv.org/abs/2605.12813)
 [![ICML](https://img.shields.io/badge/ICML-2026-blue)](#)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Buyun-Liang/REALISTA)
 [![Poster](https://img.shields.io/badge/Poster-PNG-ff69b4)](#)
