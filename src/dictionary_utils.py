@@ -7,10 +7,17 @@ import pickle
 
 import torch
 import torch.nn.functional as F
+import zstandard
 from datasets import load_dataset
 from tqdm import tqdm
 
 from config import MMLU_DATASET, LATENT_DICT_PATH, REPHRASING_DICT_PATH, LAYER_NUM_REGISTRY
+
+# Released latent dictionaries are zstd-compressed with a long-distance
+# window (--long=31, i.e. up to a 2 GiB window) to get the ~10x ratios the
+# raw float16 perturbation directions allow; the decompressor needs the same
+# bound or it refuses large-window frames as a memory-bomb safeguard.
+ZSTD_MAX_WINDOW_SIZE = 1 << 31
 
 
 def load_rephrasing_prompts(subject):
@@ -24,19 +31,34 @@ def load_rephrasing_prompts(subject):
 
 
 def load_latent_dict(model_type, mmlu_subject, verbose=False):
-    """Load the provided stage-2 latent perturbation direction dictionary."""
+    """Load the provided stage-2 latent perturbation direction dictionary.
+
+    Accepts either a plain `.pkl` or a zstd-compressed `.pkl.zst` (the form
+    latent dictionaries are released in on HuggingFace) -- the compressed
+    form is streamed straight into `pickle.load` without ever writing the
+    decompressed bytes to disk.
+    """
     path = (
         f"{LATENT_DICT_PATH}/{model_type}/{mmlu_subject}/"
         f"{model_type}_{mmlu_subject}_layer_{LAYER_NUM_REGISTRY[model_type]}"
         f"_latent_dictionary.pkl"
     )
-    if not os.path.isfile(path):
-        raise FileNotFoundError(f"No latent dictionary found at: {path}")
+    compressed_path = path + ".zst"
 
-    if verbose:
-        print(f"Loading latent direction dictionary from {path}")
-    with open(path, "rb") as f:
-        return pickle.load(f)
+    if os.path.isfile(path):
+        if verbose:
+            print(f"Loading latent direction dictionary from {path}")
+        with open(path, "rb") as f:
+            return pickle.load(f)
+
+    if os.path.isfile(compressed_path):
+        if verbose:
+            print(f"Loading latent direction dictionary from {compressed_path}")
+        dctx = zstandard.ZstdDecompressor(max_window_size=ZSTD_MAX_WINDOW_SIZE)
+        with open(compressed_path, "rb") as f, dctx.stream_reader(f) as reader:
+            return pickle.load(reader)
+
+    raise FileNotFoundError(f"No latent dictionary found at: {path} (or {compressed_path})")
 
 
 def get_padded_perturb_dict(args, latent_dict, model):
