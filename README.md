@@ -65,7 +65,7 @@ REALISTA is a two-stage attack:
 REALISTA assumes two pre-computed dictionaries already exist for the `(model, subject, question)` you want to attack:
 
 - **Stage-1 rephrasing dictionary** — `data/rephrasing_prompts/<subject>_rephrasings.json`, included in this repo.
-- **Stage-2 latent direction dictionary** — `<model_type>/<subject>/..._latent_dictionary.pkl`, released separately on [HuggingFace](#) *(link to be added upon release)*.
+- **Stage-2 latent direction dictionary** — `<model_type>/<subject>/..._latent_dictionary.pkl.zst`, released separately on [HuggingFace](https://huggingface.co/datasets/byliang/REALISTA_latent_dictionary) (zstd-compressed; `dictionary_utils.load_latent_dict` reads `.pkl.zst` directly).
 
 The MMLU subset (subjects and question indices) used in the paper follows [SECA](https://github.com/Buyun-Liang/SECA); refer to that repository for the underlying data.
 
