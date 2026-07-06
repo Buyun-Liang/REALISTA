@@ -1,0 +1,1006 @@
+{
+  "55": {
+    "imperative": [
+      "Determine which statement about vectors x, y, z in R^k fails to hold in every case; express your choice from the list provided?",
+      "Identify which statement is not guaranteed to hold for all vectors x, y, z in R^k?",
+      "Identify which statement would not hold for every x, y, z in R^k, phrasing your choice as a single selection from the original list provided?"
+    ],
+    "reorganized": [
+      "Which statement, after reorganizing the usual properties of vectors in R^k, does not hold for all x, y, z in R^k?",
+      "After reorganizing the statement about vectors x, y, z in R^k, which single property listed below does not hold for all choices of x and y in R^k?",
+      "Which statement about vectors x, y, z in R^k, when reorganized for clarity, is not guaranteed to hold for every choice of x, y, z?"
+    ],
+    "subjunctive": [
+      "Were we to assert general properties that must hold for any vectors x, y, z in R^k, which statement listed would not necessarily be true?",
+      "If one were to suppose x, y, z ∈ R^k, which of the listed properties would not be guaranteed to hold in every case?",
+      "Suppose x, y, z are vectors in R^k; which statement would not necessarily hold for all such vectors if one were to insist on the given properties in every case?"
+    ],
+    "counterfactual": [
+      "Consider vectors x, y, z in R^k and imagine a counterfactual world where each listed property about vector norms and dot products might fail; which statement would be false in some cases rather than universally true?",
+      "Consider vectors x, y, z in R^k and imagine a counterfactual scenario in which one of the standard properties of the Euclidean norm fails to hold for every possible triple (x,y,z); which of the usual statements about norms below would not necessarily remain valid in all situations?",
+      "Which statement about arbitrary vectors x, y, z in R^k would be counterfactually false in some cases rather than holding for all choices of x, y, z?"
+    ],
+    "questioning": [
+      "Which statement about vectors x, y, z in R^k fails to hold in every case when you challenge the properties of norms and inner products?",
+      "Which statement about arbitrary vectors x, y, z in R^k can fail to hold in general, prompting you to question its universal validity?",
+      "Which statement about vectors x, y, z in R^k would not hold in every case when you scrutinize their magnitudes and dot products using questioning of each property?"
+    ],
+    "abridged": [
+      "Which statement about vectors x, y, z in R^k is not universally valid, presented in an abridged form?",
+      "Which statement, when considering vectors x, y, z in R^k, does not hold in every case after condensing the list of standard vector norm properties into a brief, abridged form?",
+      "Which statement about vectors x, y, z in R^k does not hold in every case when the list of properties of the Euclidean norm is considered in an abridged form?"
+    ],
+    "transformed": [
+      "Which statement about vectors x, y, z in R^k, when considering properties that are preserved under standard norm and inner-product transformations, is not always true?",
+      "Which statement about vectors x, y, z in R^k is not always true when these vectors are transformed by vector addition or scaling, focusing on properties of the norm and inner product?",
+      "Which statement about vectors x, y, z in R^k is not always preserved under the usual Euclidean norm transformed notion of length?"
+    ],
+    "inverse": [
+      "Which statement about vectors x, y, z in R^k is not always valid, considering standard properties and their inverses?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general when one considers the inverse notion of triangle inequality (i.e., without assuming collinearity) and thus is not universally true for all x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in general when considering properties of norms and their inverses?"
+    ],
+    "paraphrastic": [
+      "Which statement about vectors x, y, z in R^k is not valid in every case?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in every case?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true?"
+    ],
+    "at variance": [
+      "Which of the following statements about vectors x, y, z in R^k is at variance with the properties that always hold for their norms and dot products?",
+      "For vectors x, y, z in R^k, which statement is at variance with the properties that must always hold for all such vectors?",
+      "Which statement about vectors x, y, z in R^k is at variance with the others, i.e., which one need not hold for all x, y, z in R^k?"
+    ],
+    "comparable to": [
+      "Which statement about vectors x, y, z in R^k is not always true — bearing in mind that the norm |x| is comparable to length and the dot product captures mutual projection?",
+      "Which statement is not always valid for vectors x, y, z in R^k when compared to standard properties of norms and inner products?",
+      "Which statement about vectors x, y, z in R^k is not comparable to always being true?"
+    ],
+    "abbreviated": [
+      "Which statement about vectors x, y, z in R^k is not always true, phrased concisely?",
+      "Which statement about vectors x,y,z in R^k is not always true (use abbreviated phrasing)?",
+      "Which statement about vectors x, y, z in R^k is not universally valid: whether norm nonnegativity, the Cauchy–Schwarz inequality, definiteness of the norm, or the triangle equality expressed as |x + y| = |x| + |y|?"
+    ],
+    "simplified": [
+      "Which statement about vectors x, y, z in R^k is not universally true when the terms are interpreted in the usual simplified Euclidean sense?",
+      "Which statement is not guaranteed to hold for all vectors x, y, z in R^k when expressed in simplified form?",
+      "Which statement about vectors x, y, z in R^k is not always true, when using the simplified notion of vector length and dot product?"
+    ],
+    "reflexive": [
+      "Which statement about vectors x, y, z in R^k need not hold in general when considering the reflexive properties of the Euclidean norm and inner product?",
+      "Which statement concerning vectors x, y, z in R^k is not a reflexive truth for all choices of x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k does not hold in general, keeping in mind reflexive properties of norms and inner products?"
+    ],
+    "clarifying": [
+      "Which statement about vectors x, y, z in R^k can fail to hold for some choices of vectors, even though the others are always true?",
+      "Which statement below does not hold for every x, y, z in R^k, with the intent of clarifying which property fails to be universally true?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold for all choices of x, y, z, with the intended clarification focusing on general validity rather than special cases?"
+    ],
+    "comparative": [
+      "Which statement, when compared with the others about vectors x, y, z in R^k, is not always true?",
+      "Among the following properties comparing norms and inner products for vectors x, y, z in R^k, which statement is not necessarily true in every case?",
+      "Which statement about vectors x, y, z in R^k is not always true when comparing magnitudes and dot products—i.e., which comparative property can fail for arbitrary vectors?"
+    ],
+    "logical": [
+      "Which statement about vectors x, y, z in R^k fails to hold in general when judged by the usual Euclidean norm and inner product, given the logical properties of nonnegativity, the Cauchy–Schwarz inequality, the characterization of the zero vector, and the triangle inequality?",
+      "Which statement about arbitrary vectors x, y, z in R^k need not hold in all cases, given the usual Euclidean norm and dot product definitions?",
+      "Which statement is not a logical consequence for all vectors x, y, z in R^k?"
+    ],
+    "converse": [
+      "Which of the following statements about vectors x, y, z in R^k does not hold in general, bearing in mind the converse implications of the given properties?",
+      "Which statement, when considering vectors x, y, z in R^k and reflecting on the converse relationships among norm properties, fails to hold in every case?",
+      "Which statement need not hold for all vectors x, y, z in R^k, given common vector norm properties and considering converses of implications?"
+    ],
+    "reversed": [
+      "Which statement, when considering vectors x, y, z in R^k, is not always valid if we reverse the usual triangle inequality?",
+      "Which statement about vectors x, y, z in R^k is not always true when the usual vector norm and dot product are used, if we consider the possibility of reversing directions of vectors?",
+      "Which statement about vectors x, y, z in R^k, when read in reverse, is not universally valid?"
+    ],
+    "concrete": [
+      "Which statement about vectors x, y, z in R^k is not necessarily true in all cases, phrased concretely to reflect standard Euclidean norms and inner products?",
+      "Which concrete statement about vectors x, y, z in R^k can fail to hold in general?",
+      "Which of these concrete statements about vectors x, y, z in R^k does not hold in every case?"
+    ],
+    "synonymous": [
+      "Which of the following statements about vectors x, y, z in R^k is not always true?",
+      "Which statement below is not necessarily valid for vectors x, y, z in R^k, with synonymous wording permitted for equivalent expressions?",
+      "Which of the statements listed below is not universally valid for vectors x, y, z in R^k using synonymous formulations of vector magnitude and inner product properties?"
+    ],
+    "antithetic": [
+      "Which statement is antithetically false in general for vectors x, y, z ∈ R^k — that is, which of the listed properties does not hold for all vectors?",
+      "Which statement about vectors x, y, z in R^k is antithetically false in general — that is, which one does not hold for all vectors?",
+      "Which statement would be antithetically false in general for vectors x, y, z in R^k?"
+    ],
+    "inverted": [
+      "Which statement about vectors x, y, z in R^k is not always true when roles are inverted among components?",
+      "Which statement, when considered for all x, y, z ∈ R^k, does not hold in general because the triangle inequality is not an inverted equality?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true in all cases, when considering properties that become inverted under negation and addition?"
+    ],
+    "contrastive": [
+      "Which statement, when contrasted with the others about vectors x, y, z in R^k, can fail to hold in general?",
+      "Which statement, when contrasted with properties of norms on R^k, fails to hold in general for all vectors x, y, z in R^k?",
+      "Which statement, contrasted against the usual properties of norms for vectors x, y, z in R^k, fails to hold in general?"
+    ],
+    "disjunctive": [
+      "Which statement is not always valid for arbitrary vectors x, y, z in R^k, given that the vectors may satisfy different disjunctive possibilities (e.g., one of them could be zero while another is nonzero)?",
+      "Which statement is not guaranteed to hold for every x, y, z in R^k when considering disjunctive properties of vector norms?",
+      "Which statement is not guaranteed to hold for all vectors x, y, z in R^k, given the disjunctive possibility that vector addition need not always act like scalar addition?"
+    ],
+    "otherwise": [
+      "For vectors x, y, z ∈ R^k, which statement is not always true: the norm |x| is nonnegative; the absolute value of the dot product satisfies |x · y| ≤ |x||y|; |x| = 0 precisely when x = 0; or |x + y| = |x| + |y|, otherwise?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true, otherwise known as may fail to hold in some cases?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general, otherwise all listed properties would be universally true?"
+    ],
+    "corrective": [
+      "Identify which statement among the standard properties of the Euclidean norm on R^k can fail to hold for some vectors x, y, z, using a corrective perspective that exposes any assumption causing the property to be not universally valid?",
+      "Which statement, regarding vectors x, y, z in R^k, fails to hold in every case when judged by the standard properties of the Euclidean norm and inner product—a subtle correction to common misconceptions?",
+      "Which statement about vectors x, y, z in R^k is not universally valid, given that the principle of corrective refinement should guide identifying the one property that can fail?"
+    ],
+    "reverse": [
+      "Which statement need not hold for all vectors x, y, z in R^k when the usual vector norm and dot product are considered, given that you should look for the one that can fail (note the idea of reversing the triangle inequality)?",
+      "Which statement about vectors x, y, z in R^k can be reversed and still hold for all x, y, z, and which one fails under reversal—specifically, identify the property that is not always valid when the triangle inequality is reversed?",
+      "Which statement about vectors x, y, z in R^k, when read in reverse (i.e., considering whether the asserted property would still hold if the implication directions or signs were reversed), is not guaranteed to be true for all such vectors?"
+    ],
+    "contradictory": [
+      "Which statement among the given options is the contradictory one that does not hold for all vectors x, y, z in R^k?",
+      "Which statement is contradictory to the usual properties of vectors in R^k, i.e., which one need not hold for all x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k can be contradicted by some choice of vectors — that is, which of the listed properties need not hold for all x, y, z in R^k?"
+    ],
+    "contrasting": [
+      "Which statement does not always hold for vectors x, y, z in R^k when contrasting the properties of norms and inner products?",
+      "Which statement, when contrasted with the others about vectors x, y, z in R^k, fails to hold in general?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general when contrasted with the others—a nonnegativity of norm, the Cauchy–Schwarz inequality, the characterization of the zero vector by zero norm, or the claim that the norm is always additive over vector addition?"
+    ],
+    "opposite": [
+      "Which statement about vectors x, y, z in R^k is not always true, phrased using the idea of an opposite property to contrast with the others?",
+      "Which statement about vectors x, y, z in R^k is not always true, with an emphasis on identifying the statement opposite to the triangle inequality?",
+      "Which statement about vectors x, y, z in R^k is not always true, phrased with the opposite or negation in mind to test which property can fail for arbitrary vectors?"
+    ],
+    "conditional": [
+      "Which statement about vectors x, y, z in R^k is not necessarily valid under all conditions?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true under all conditions, given the usual norm and dot product properties?",
+      "Which statement about vectors x, y, z in R^k need not hold under all conditions?"
+    ],
+    "contrary": [
+      "Which statement is contrary to being universally valid for all vectors x, y, z in R^k: that the norm is nonnegative, that the absolute value of the dot product is at most the product of norms, that the norm vanishes exactly for the zero vector, or that the norm is always additive so |x + y| = |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true, i.e., could be false in contrast to the others?",
+      "Which statement is contrary to being universally valid for vectors x, y, z in R^k?"
+    ],
+    "alternate": [
+      "Which of the following statements about vectors x, y, z in R^k is not necessarily true in all cases?",
+      "Which statement about vectors x, y, z in R^k is not always true, using an alternate formulation that preserves meaning and structure?",
+      "Which statement is not always valid for arbitrary vectors x, y, z in R^k when considering the alternate properties of norms and dot products?"
+    ],
+    "metonymic": [
+      "Which statement about vectors x, y, z in R^k would be false if taken as a universal property of the norm and inner product — that is, which one need not hold for all x, y, z ∈ R^k?",
+      "Which statement about the magnitude and dot-product of vectors in R^k—using the norm and inner product as metonymic stand-ins for length and angle—is not guaranteed to hold for every choice of vectors x, y, z in R^k?",
+      "Which statement, when speaking metonymically of vectors in R^k as their lengths and inner products, does not hold in general for x, y, z ∈ R^k?"
+    ],
+    "interrogative": [
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold for all choices of x, y, z?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true?",
+      "For vectors x, y, z in R^k, which statement need not hold for every choice of x, y, z?"
+    ],
+    "indirect": [
+      "Which statement about vectors x, y, z in R^k is not indirectly guaranteed to hold in all cases?",
+      "Which statement about vectors x, y, z in R^k is indirectly false in general: nonnegativity of the norm, the Cauchy–Schwarz bound |x·y| ≤ |x||y|, the characterization |x| = 0 ⇔ x = 0, or the claim that the norm is always additive so |x + y| = |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k fails to hold in every case when considering properties like nonnegativity of norms, equality conditions for zero norm, the Cauchy–Schwarz inequality, and the triangle inequality applied indirectly?"
+    ],
+    "deductive": [
+      "By a deductive examination of vectors x, y, z ∈ R^k, which statement need not hold in every case?",
+      "By a deductive examination of properties of vectors x, y, z in R^k, which statement need not hold for all such vectors?",
+      "By deductive reasoning, which statement need not hold for all vectors x, y, z in R^k?"
+    ],
+    "amended": [
+      "Which statement, among the standard properties of vectors in R^k, does not hold for all vectors x, y, z in R^k when the usual Euclidean norm is considered, given the concept that one property might need to be amended?",
+      "Which statement about vectors x, y, z in R^k is not always valid when the standard norm is used, or in other words, which assertion can fail in some cases while the others are always true?",
+      "Which statement, when tested against all vectors x, y, z in R^k, does not hold in every case after being amended to apply generally to arbitrary vectors?"
+    ],
+    "run-on": [
+      "Which statement about vectors x, y, z in R^k can fail to hold in general — rewrite the prompt to avoid a run-on sentence and ask which of the listed properties need not be true for all x, y, z in R^k?",
+      "For vectors x, y, z in R^k which statement need not hold in every case, keeping in mind to avoid run-on phrasing and maintain the same correct choice as before?",
+      "Which statement about vectors x, y, z in R^k can fail to hold in general, that is which one is not guaranteed to be true for all x, y, z ∈ R^k?"
+    ],
+    "comparable": [
+      "Which statement about vectors x, y, z in R^k is not always true, keeping in mind that vector magnitudes and their comparability may fail to make |x + y| equal to |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k is not always true, with 'comparable' properties of vector magnitude and dot product in mind?",
+      "Which statement among the following about vectors x, y, z in R^k fails to hold in general when comparing their magnitudes and dot products — noting that we wish to identify the one assertion that is not universally true about the comparability of lengths and inner products for all x, y, z ∈ R^k?"
+    ],
+    "abstractive": [
+      "Which statement about vectors x, y, z ∈ R^k need not hold in general when considering the standard Euclidean norm—i.e., which property can fail to be valid for every choice of vectors?",
+      "Which of the listed properties does not hold for every triple of vectors x, y, z in R^k?",
+      "Which statement among the following properties of vectors in R^k can fail for some x, y, z in R^k under the usual Euclidean norm?"
+    ],
+    "maximizing": [
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold when one is trying to maximize general properties of norms and inner products?",
+      "Which statement about vectors x, y, z in R^k does not hold in general when we are maximizing correctness for all cases?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general when one aims to maximize properties of lengths and inner products?"
+    ],
+    "truncate": [
+      "Truncate the following statement about vectors in R^k to a concise test of which property can fail: which assertion about the norm of vectors is not guaranteed to hold for all x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k can be truncated as not always holding true?",
+      "For vectors x, y, z in R^k, which statement below is not guaranteed to hold in every case, even if one truncates decimal components of the vectors to a finite number of digits?"
+    ],
+    "concise": [
+      "Which statement about vectors x, y, z in R^k need not hold in general?",
+      "Which of the listed properties about vectors x, y, z in R^k can fail to hold for all vectors?",
+      "Which statement about vectors x, y, z in R^k can fail to hold for all choices of x and y?"
+    ],
+    "concessive": [
+      "Although several standard properties hold for vectors x, y, z in R^k, which of the listed statements need not hold in every case?",
+      "Which statement about vectors x, y, z in R^k can fail to hold in general, even though the others remain universally true?",
+      "Although many properties of vectors hold for all x, y, z in R^k, which statement need not hold in every case: that the norm is nonnegative; that the absolute value of the dot product does not exceed the product of norms; that the norm vanishes exactly at the zero vector; or that the norm of a sum always equals the sum of the norms?"
+    ],
+    "accessible": [
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold for every choice of x, y, z, presented in an accessible way so readers familiar with vector norms can identify the exception?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in every case?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in all cases, phrased to be accessible to students?"
+    ],
+    "disconfirming": [
+      "Which of the listed vector properties can be disconfirmed by a counterexample in R^k, meaning it does not hold for all x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k can be disconfirmed by counterexample and therefore is not universally valid?",
+      "Which single statement among the standard properties of vectors in R^k can be invalidated by a suitable counterexample (i.e., is not guaranteed to hold for every choice of x, y, z in R^k)?"
+    ],
+    "nonassociative": [
+      "Which statement about vectors x, y, z in R^k does not hold in general when one does not assume any associative-like property: that the norm is nonnegative; that the absolute value of the dot product is bounded by the product of norms; that the norm is zero exactly for the zero vector; or that the norm of a sum always equals the sum of the norms?",
+      "Which statement about vectors x, y, z ∈ R^k can fail because the Euclidean norm is not a nonassociative operation like addition — specifically, which property that looks like equality of norms under addition is not always true?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general when one recalls that vector addition is not associative in the sense of altering length relations and so cannot guarantee equality of magnitudes under summation?"
+    ],
+    "inconsistent": [
+      "Which single statement about vectors x, y, z in R^k can be inconsistent with the others (i.e., not universally true for all choices of x, y, z)?",
+      "Which statement about vectors x, y, z in R^k is inconsistent with the properties of the Euclidean norm, i.e., which one is not always true?",
+      "Which statement about vectors x, y, z in R^k can be inconsistent with the usual Euclidean norm — that is, which need not hold for all x, y, z ∈ R^k?"
+    ],
+    "counterintuitive": [
+      "Which statement about vectors x, y, z in R^k is counterintuitively not guaranteed to hold in every case?",
+      "Which statement about vectors x, y, z in R^k is counterintuitive because it does not hold in general?",
+      "Which statement about vectors x, y, z in R^k would be the counterintuitive one because it does not hold in general?"
+    ],
+    "emended": [
+      "Which of the following statements about vectors x, y, z in R^k is emended to identify the one that need not hold in every case?",
+      "Which of the following statements about vectors x, y, z in R^k is emended to be false in general?",
+      "Which statement, when considering arbitrary vectors x, y, z in R^k, is not always true (emended for clarity)?"
+    ],
+    "modifiable": [
+      "Which statement about vectors x, y, z in R^k can be modified to reveal that it is not universally valid: that the norm is nonnegative, that the absolute value of the dot product is bounded by the product of norms, that the norm vanishes exactly at the zero vector, or that the norm is always additive under vector addition?",
+      "Which statement about vectors x, y, z in R^k is not universally valid, given that the properties are modifiable under different vector configurations?",
+      "Which statement about vectors x, y, z in R^k can be altered or is not necessarily valid for every choice of x, y, z—i.e., which property is not modifiable to hold in all cases?"
+    ],
+    "justifiable": [
+      "Which statement about vectors x, y, z in R^k can be challenged as not justifiably true in every case?",
+      "Which statement about vectors x, y, z in R^k is not justifiably true in every case?",
+      "Which of the listed statements about vectors x, y, z in R^k is not justifiably true in every case?"
+    ],
+    "comparable with": [
+      "Which statement about vectors x, y, z in R^k is not always true, given the standard properties comparable with the vector norm?",
+      "Which statement about vectors x, y, z in R^k is not always true, given the usual norm and dot product properties and keeping in mind comparisons of magnitude (i.e., concepts comparable with absolute values)?",
+      "Which statement about vectors x, y, z in R^k is not comparable with being universally valid — that is, which one need not hold for every choice of x, y, z in R^k?"
+    ],
+    "exemplifying": [
+      "Which of the following statements about vectors x, y, z in R^k is not guaranteed to hold in all cases, exemplifying a property that can fail for some vectors?",
+      "Which statement does not always hold for vectors x, y, z in R^k when exemplifying properties of the norm and inner product?",
+      "Which statement about vectors x, y, z in R^k, exemplifying common properties of vector norms and inner products, is not universally valid?"
+    ],
+    "nonrestrictive": [
+      "Which statement, when considering vectors x, y, z in R^k and treating any additional descriptive clause as nonrestrictive (i.e., not limiting the scope), fails to hold in every case?",
+      "Which of the following statements about vectors x, y, z in R^k is not universally valid, given that the listed properties are nonrestrictive conditions on vector norms?",
+      "For vectors x, y, z in R^k (with standard Euclidean norm and dot product), which statement is not necessarily true in general?"
+    ],
+    "passive": [
+      "Which statement about vectors x, y, z in R^k would be false if the usual properties of norms and dot products are passively assumed to hold for all vectors?",
+      "Which statement would not necessarily be true for vectors x, y, z in R^k when their properties are considered passively?",
+      "Which statement about vectors x, y, z in R^k would not necessarily be valid in every case when properties are stated passively?"
+    ],
+    "elaborate": [
+      "Which statement, when considering arbitrary vectors x, y, z in R^k and reflecting the properties of the Euclidean norm and dot product, is not universally valid?",
+      "Elaborate which one of the following statements about arbitrary vectors x, y, z in R^k is not guaranteed to hold in every case?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in every case, considering properties like nonnegativity of norms, the Cauchy–Schwarz inequality, the characterization of the zero vector by its norm, and additivity of norms?"
+    ],
+    "true to": [
+      "Which statement about vectors x, y, z in R^k is not always true, keeping faithful to the original meaning and answers: that the triangle equality |x + y| = |x| + |y| need not hold for all x and y in R^k?",
+      "Which statement about vectors x, y, z in R^k is not always true when interpreted true to the usual Euclidean norm and dot product properties?",
+      "Which statement is not always true for vectors x, y, z in R^k, keeping the correct choice as the one that asserts |x + y| = |x| + |y|?"
+    ],
+    "verifiable": [
+      "Which statement about vectors x, y, z in R^k is not verifiably true in every case?",
+      "Which statement about vectors x, y, z in R^k is not verifiably true in every case?",
+      "Which statement about vectors x, y, z in R^k is not verifiably true in every case?"
+    ],
+    "unambiguous": [
+      "For arbitrary vectors x, y, z in R^k, which statement below is not unambiguously true in every case?",
+      "Which single statement below is not guaranteed to hold for all vectors x, y, z in R^k, stated unambiguously so there is no interpretation that would change which option is false?",
+      "Which statement about vectors x, y, z in R^k is not unambiguously true in every case?"
+    ],
+    "reasonable": [
+      "Which statement about vectors x, y, z in R^k is not necessarily true in all cases, given the usual Euclidean norm and dot product definitions; use reasonable thinking to identify the false general property?",
+      "Which statement about vectors x, y, z in R^k is not always reasonable to assume to hold for all such vectors?",
+      "Which statement would not be a reasonable property to expect for all vectors x, y, z in R^k?"
+    ],
+    "debatable": [
+      "Which statement about vectors x, y, z in R^k could reasonably be contested as not holding in every case — that is, which property is debatable and fails to be universally true for all x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is debatable, meaning it does not hold in every case?",
+      "Which of the listed properties about vectors x, y, z in R^k could be contested as not holding in every case, given standard Euclidean norm and dot product definitions?"
+    ],
+    "at fault": [
+      "Which statement would be at fault if asserted as always true for all vectors x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is at fault—i.e., not universally valid for all such vectors: nonnegativity of the norm, Cauchy–Schwarz inequality, definiteness of the norm, or the triangle inequality holding as equality for all x and y?",
+      "Which statement about vectors x, y, z in R^k can be at fault (i.e., not universally valid) for all such vectors?"
+    ],
+    "no-nonsense": [
+      "Which statement about vectors x, y, z in R^k can fail to hold in general under the no-nonsense view of norms and inner products?",
+      "Which statement about vectors x, y, z in R^k is not universally true: nonnegativity of the norm, the Cauchy–Schwarz bound, the norm vanishing only at the zero vector, or the equality |x+y| = |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k is not true in every case?"
+    ],
+    "nonstandard": [
+      "Which statement about arbitrary vectors x, y, z in R^k need not hold in all (including nonstandard) cases?",
+      "Which statement about vectors x, y, z in R^k does not hold in general when one considers the standard (and potentially nonstandard) properties of the Euclidean norm?",
+      "Which statement would be considered nonstandard because it does not hold for every pair of vectors x, y and vector z in R^k?"
+    ],
+    "unnecessary": [
+      "Which statement about vectors x, y, z in R^k is unnecessary because it does not hold in general: that the norm is nonnegative; that the absolute value of the dot product is at most the product of the norms; that the norm vanishes exactly at the zero vector; or that the norm of a sum equals the sum of the norms?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true in every case?",
+      "Which statement about vectors x, y, z in R^k is unnecessary to assume as always true?"
+    ],
+    "all-or-none": [
+      "Which single statement among the standard properties of vectors in R^k can fail in some cases rather than holding in every case, given the all-or-none principle that other listed properties always hold for every vector x, y, z in R^k?",
+      "Which single statement below fails to hold in every case for vectors x, y, z in R^k when applying the all-or-none principle to properties of vector norms and inner products?",
+      "Which single statement among the listed properties of vectors x, y, z in R^k can fail in some cases rather than holding in every case under the all-or-none principle?"
+    ],
+    "invertible": [
+      "Which statement is not always true for vectors x, y, z in R^k when considering properties tied to invertibility and norms: nonnegativity of the norm, the Cauchy–Schwarz inequality |x·y| ≤ |x||y|, the characterization |x| = 0 iff x = 0, or the claim that the norm is additive |x + y| = |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k need not hold universally, assuming the usual invertible properties of Euclidean norm and inner product are in force?",
+      "Which statement about vectors x, y, z in R^k is not always true, considering the norm is not necessarily invertible with respect to addition?"
+    ],
+    "corrigible": [
+      "Which statement about vectors x, y, z in R^k is not universally valid, given that the set of propositions includes nonnegativity of the norm, the Cauchy–Schwarz inequality, the characterization of the zero vector by its norm, and the additivity of norms (bearing in mind the corrigible nature of assertions under scrutiny)?",
+      "Which statement about vectors x, y, z in R^k is corrigibly false in general: that the norm is nonnegative; that the absolute value of the dot product does not exceed the product of norms; that the norm is zero exactly when the vector is the zero vector; or that the norm of a sum always equals the sum of the norms?",
+      "Which statement about vectors x, y, z in R^k is not invariably correct, with the intention that the question is corrigible so a counterexample can be provided if needed?"
+    ],
+    "rolled into one": [
+      "Which statement about vectors x, y, z in R^k, when the common properties of norms are rolled into one, is not guaranteed to hold in every case?",
+      "Which statement, rolled into one and concerning vectors x, y, z ∈ R^k, is not true in every case?",
+      "Which statement about vectors x, y, z in R^k is not always true when the usual vector norms and dot product properties are rolled into one?"
+    ],
+    "unlike": [
+      "Which statement is unlike the others in that it does not hold for all vectors x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is not always true, unlike the others?",
+      "Which statement, unlike the others, need not hold for all vectors x, y, z in R^k?"
+    ],
+    "implicit in": [
+      "Which statement is not always true for vectors x, y, z ∈ R^k, bearing in mind the properties of the vector norm and inner product that are implicit in the usual Euclidean setting?",
+      "Which statement is not always true for vectors x, y, z in R^k, where the phrase \"implicit in\" should guide consideration of which properties follow from the definition of the Euclidean norm?",
+      "Which statement is not invariably implied, implicit in the structure of the Euclidean norm on R^k for arbitrary vectors x, y, z?"
+    ],
+    "unbiased": [
+      "Which statement below does not hold universally for all vectors x, y, z in R^k when evaluated without bias toward any particular vectors?",
+      "Which statement about vectors x, y, z in R^k is not universally true, asked in an unbiased way to avoid assuming any special alignment of the vectors?",
+      "Which statement about vectors x, y, z in R^k is not universally true, presented in an unbiased way that preserves the original meaning and for which the only false option corresponds to the triangle equality |x + y| = |x| + |y|?"
+    ],
+    "declarative": [
+      "Identify which statement about vectors x, y, z in R^k does not hold in every case?",
+      "Identify the statement that is not universally valid for all vectors x, y, z in R^k: which assertion can fail in general?",
+      "Which statement among the standard properties of vectors in R^k can fail to hold for some vectors x, y, z in R^k while the others always hold?"
+    ],
+    "alternating": [
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in all cases, particularly when considering alternating signs or directions among components?",
+      "Which statement about vectors x, y, z in R^k is not true in general when considering alternating (sign-changing) directions: that the norm is nonnegative, that the absolute value of their dot product is at most the product of their norms, that the norm is zero exactly for the zero vector, or that the norm of a sum equals the sum of the norms?",
+      "Which statement about vectors x, y, z in R^k fails to hold in general when considering alternating or nondirectional properties of magnitude and inner product—specifically, which of the standard norm and dot-product relations need not be true for all x, y, z in R^k?"
+    ],
+    "in order": [
+      "Which statement about vectors x, y, z in R^k is not always true, where statements are given in order of common properties of the norm?",
+      "Which statement need not hold for all vectors x, y, z in R^k in order to identify the one that is not universally true?",
+      "Which one of the following statements about vectors x, y, z in R^k fails to hold in every case, when considered in order with the usual Euclidean norm and inner product?"
+    ],
+    "untrue": [
+      "Which statement about vectors x, y, z in R^k is untrue in general?",
+      "Which statement about vectors x, y, z in R^k is not universally true (i.e., can be untrue in some cases)?",
+      "Which statement about vectors x, y, z in R^k is untrue in general?"
+    ],
+    "unequal": [
+      "Which statement below can be unequal to the others for some vectors x, y, z in R^k — that is, which one is not guaranteed to hold for all x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k can fail due to their being unequal (i.e., not necessarily equal)?",
+      "Which statement is not always true for vectors x, y, z in R^k, i.e., which may be unequal to the others in general?"
+    ],
+    "willing and able": [
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in every case when we are willing and able to consider the usual Euclidean norm and dot product?",
+      "For vectors x, y, z in R^k, which statement would not be guaranteed to hold in every case if the vectors are merely assumed to be willing and able elements of R^k?",
+      "Which statement about vectors x, y, z in R^k is not always true, assuming vectors are willing and able to satisfy the usual Euclidean properties?"
+    ],
+    "accurate": [
+      "Which statement about vectors x, y, z in R^k is not universally valid: nonnegativity of the norm, the Cauchy–Schwarz inequality, the characterization of the zero vector by zero norm, or the assertion that the norm is additive for all pairs of vectors?",
+      "Which statement about vectors x, y, z in R^k is not invariably true, given that the properties listed include nonnegativity of norms, the Cauchy–Schwarz inequality relating dot products and norms, the characterization of the zero vector via its norm, and the equality of the norm of a sum to the sum of norms?",
+      "Which statement about vectors x, y, z in R^k is not universally valid: nonnegativity of the norm, the Cauchy–Schwarz inequality |x·y| ≤ |x||y|, the equivalence |x| = 0 ⇔ x = 0, or the assertion that the norm is always additive |x + y| = |x| + |y|?"
+    ],
+    "alternative": [
+      "Which statement below does not hold as a universal truth for arbitrary vectors x, y, z in R^k when considering alternatives for vector norm properties?",
+      "Which statement is not always true for vectors x, y, z in R^k, presented as an alternative to the other properties?",
+      "Which of the listed statements about vectors x, y, z in R^k fails to hold in general, given the alternative possibility that equality need not replace the triangle inequality?"
+    ],
+    "at odds": [
+      "Which statement about vectors x, y, z in R^k is at odds with the others — that is, which one is not always true?",
+      "Which of the following statements about vectors x, y, z in R^k is at odds with the usual properties of the Euclidean norm — that is, which one is not always true for all x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k is not always true, i.e., which one can be at odds with the others for some x and y?"
+    ],
+    "improvable": [
+      "Which statement can be improved to be false in general for vectors x, y, z in R^k while the others are always true?",
+      "Which statement about vectors x, y, z in R^k is improvable because it does not hold in general?",
+      "Which statement about vectors x, y, z in R^k can be improved because it is not universally valid?"
+    ],
+    "trimmed": [
+      "Which statement need not hold for all vectors x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold in every case, after trimming away redundant assumptions?",
+      "Which statement about vectors x, y, z in R^k is not true in every case when considering the trimmed list of standard norm properties?"
+    ],
+    "exaggerated": [
+      "Which statement would be an exaggerated claim that does not hold for all vectors x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is exaggerated and therefore not true in every case?",
+      "Which of the following statements about vectors x, y, z in R^k is not universally true, phrased with a touch of exaggerated emphasis on the exception: that the norm behaves like an exact measure under addition (i.e., |x + y| = |x| + |y|)?"
+    ],
+    "alterable": [
+      "Which statement need not hold for all vectors x, y, z in R^k, given that some properties of a vector norm are alterable under certain choices of norm?",
+      "Which statement about vectors x, y, z in R^k is not necessarily true when some properties are alterable?",
+      "Which statement about magnitudes and dot products of vectors in R^k can be altered and is therefore not true for all vectors x, y, z in R^k?"
+    ],
+    "analogical": [
+      "By analogy with properties of real numbers, which statement need not hold for all vectors x, y, z in R^k?",
+      "Which statement about vectors x, y, z in R^k is not analogous to a universally valid property of magnitudes and inner products in Euclidean space?",
+      "Which statement, when viewed analogically for vectors x, y, z in R^k, does not hold in general?"
+    ],
+    "reliable": [
+      "Which statement is not reliably true for all vectors x, y, z in R^k — that is, which one can fail to hold in some cases?",
+      "Which statement below is not a reliable property for all vectors x, y, z in R^k?",
+      "Which statement about all vectors x, y, z in R^k is not reliably true?"
+    ],
+    "adjusted": [
+      "Which statement, when considering vectors x, y, z in R^k and after applying adjusted reasoning, does not hold for all such vectors?",
+      "Which statement about vectors x, y, z in R^k, when adjusted for all possible choices of x, y, z, is not guaranteed to hold true?",
+      "Which property, when considering vectors x, y, z in R^k and after making any necessary adjustments to interpretation, does not hold in every case?"
+    ],
+    "simplex": [
+      "In the setting of vectors in R^k, and using the simplex of basic norm facts as your guide, which statement need not hold for arbitrary x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k — viewed in the context of simplex geometry and norms — can fail to hold in general?",
+      "Which statement about vectors x, y, z in R^k is not guaranteed to hold for all vectors — thinking of vector norms and the simplex-like geometry of R^k where distances and inner products behave simply?"
+    ],
+    "different": [
+      "Which statement is not necessarily true for all vectors x, y, z in R^k when considering properties that distinguish different vector norms?",
+      "Which statement about arbitrary vectors x, y, z in R^k is not different from the others in that it does not hold in every case?",
+      "For arbitrary vectors x, y, z in R^k, which statement need not hold in all cases while the others always do — keep in mind the notion of being different when comparing magnitudes and sums?"
+    ],
+    "ambiguous": [
+      "Which statement about vectors x, y, z in R^k is not universally true, given that some phrasings might be ambiguous when interpreted without context?",
+      "Which statement about vectors x, y, z in R^k can be false because the wording is ambiguous about whether it must hold for all choices of x and y?",
+      "Which statement would be false in some cases for vectors x, y, z in R^k, given that the options include nonnegativity of |x|, the Cauchy–Schwarz inequality |x·y| ≤ |x||y|, the characterization |x| = 0 iff x = 0, and the triangle identity |x + y| = |x| + |y|?"
+    ],
+    "advisable": [
+      "Which statement among the standard properties of vectors in R^k is not always advisable to assume true for all x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k is not always true, and should therefore not be relied upon as a general property?",
+      "Which statement about vectors x, y, z in R^k is not always advisable to assume as true?"
+    ],
+    "mimic": [
+      "Which statement about vectors x, y, z in R^k does not always hold, if you mimic the properties of a norm and consider which one can fail?",
+      "Which statement about vectors x, y, z in R^k is not universally valid, mimicking the original options and with the same correct choice that the triangle equality |x + y| = |x| + |y| does not always hold?",
+      "Which of the following statements about vectors x, y, z in R^k does not always hold true, with the options given intended to mimic standard properties of vector norms?"
+    ],
+    "asserted": [
+      "Which of the statements asserted about vectors x, y, z in R^k is not guaranteed to hold in every case?",
+      "Which statement about vectors x, y, z in R^k is asserted to be false in every case?",
+      "Which of the following statements about vectors x, y, z in R^k is not asserted to be true in every case?"
+    ],
+    "counteractive": [
+      "Which statement about vectors x, y, z in R^k can be counteractively false — that is, not guaranteed to hold for all x, y, z ∈ R^k?",
+      "Which statement would be counteractive to the general properties of vectors in R^k, meaning it is not necessarily true for all x, y, z ∈ R^k?",
+      "Which statement about vectors x, y, z in R^k is counteractive to the usual properties — that is, which one need not hold in general for all x, y, z in R^k?"
+    ],
+    "correct": [
+      "Which statement is not universally valid for all vectors x, y, z in R^k, ensuring the correct choice remains D: the equality |x + y| = |x| + |y|?",
+      "Which statement about vectors x, y, z in R^k is not always correct: that the norm of x is nonnegative, that the absolute value of the dot product does not exceed the product of norms, that the norm is zero exactly when the vector is the zero vector, or that the norm of a sum always equals the sum of the norms?",
+      "Which one of the listed properties need not hold for all vectors x, y, z in R^k when we require the notion of length to be correct?"
+    ],
+    "unabridged": [
+      "Which statement about vectors x, y, z in R^k would not be true in every case when considering the unabridged, full properties of the Euclidean norm and inner product?",
+      "Which of the following statements about vectors x, y, z in R^k is not universally valid, presented here in unabridged form?",
+      "Which statement about vectors x, y, z in R^k is not universally valid (i.e., not true for all x, y, z) while preserving all original meanings and details in full unabridged form?"
+    ]
+  },
+  "61": {
+    "metonymic": [
+      "A university’s mathematics department — metonymically referred to as “the faculty” — comprises 10 professors and needs to staff 20 distinct courses next semester so that each professor is responsible for exactly 2 courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department (the faculty) be arranged?",
+      "A college’s math faculty, referred to metonymically as the ‘department,’ consists of 10 professors and must cover 20 distinct courses next term so that each professor teaches exactly 2 courses and each course is taught by exactly one professor; if any professor may be paired with any course, in how many distinct ways can the department assign professors to the 20 courses?",
+      "A university's mathematics division (where 'the department' stands for its faculty collectively) has 10 professors who will together staff 20 distinct courses next term, with each professor responsible for exactly two courses and each course taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct ways can the professors be allocated to cover all 20 courses?"
+    ],
+    "truncate": [
+      "A college math department has 10 faculty members and will run 20 distinct classes next term. Each faculty member will be assigned exactly two classes, and each class will be taught by exactly one faculty member. Assuming any faculty member may be assigned to any class, in how many ways can the complete assignment of the 10 faculty to the 20 classes be made, where arrangements that differ only by which of the two classes assigned to the same faculty member are considered the same when the pair is truncated to an unordered pair?",
+      "A college math department has 10 faculty members and will offer 20 distinct classes next term. Each faculty member must be assigned exactly two of these classes, and every class must be taught by exactly one faculty member. Professors are unrestricted in which classes they may teach. How many complete assignments of professors to the 20 classes are there if we count assignments only by who teaches which class (i.e., treat the two slots for each professor as indistinguishable, effectively truncating the order of their pairings)?",
+      "A college math department has 10 faculty members and will offer 20 distinct courses next term. Each faculty member is to be assigned exactly two courses, and each course is to be taught by exactly one faculty member. Assume any faculty member may teach any course. In how many distinct ways can the department truncate the assignment process to produce a full allocation of the 20 courses to the 10 faculty members?"
+    ],
+    "willing and able": [
+      "A mathematics department at a university has 10 professors who are each willing and able to teach any of 20 distinct courses next semester. Every professor will be assigned exactly 2 courses, and every course must be assigned to exactly one professor. In how many different complete assignments of professors to the 20 courses are possible?",
+      "A college's mathematics faculty comprises 10 professors who are all willing and able to teach any of the 20 different courses offered next term. Each professor will be responsible for exactly 2 distinct courses, and each course will be taught by exactly one professor. Assuming any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department create?",
+      "A university mathematics department has 10 professors who are each willing and able to teach any of the 20 different courses offered next semester; every professor will be assigned exactly 2 distinct courses and every course will be taught by exactly one professor — in how many distinct ways can the department assign the 10 professors to the 20 courses?"
+    ],
+    "educative": [
+      "A university mathematics department employs 10 professors and will schedule 20 distinct courses next semester so that each professor is responsible for exactly 2 courses and each course is taught by exactly one professor. Assuming any professor may be paired with any course, in how many distinct ways can the department assign professors to courses? ?",
+      "A university math department employs 10 professors and plans to offer 20 distinct courses next semester. Each course must be taught by exactly one professor, and each professor will be assigned exactly two courses. Assuming any professor may be assigned to any course, in how many distinct ways can the department assign the 10 professors to the 20 courses if assignments that only permute the order of a professor’s two courses are considered the same (i.e., each professor’s two-course set is unordered)?",
+      "For an instructive combinatorics exercise: a college math department employs 10 professors and needs to staff 20 distinct courses next term so that each professor is assigned exactly two different courses and every course is taught by exactly one professor; assuming any professor may teach any course, in how many ways can the full assignment of professors to the 20 labeled courses be made?"
+    ],
+    "ten-sided": [
+      "A college’s mathematics faculty consists of ten tenured instructors, and the department will list twenty distinct classes next semester. Each instructor will be scheduled to teach exactly two of the classes, and each class will be taught by exactly one instructor. If every instructor is eligible to teach any class, in how many different ways can the department assign the ten instructors to the twenty classes?",
+      "A university’s ten-sided mathematics department has 10 professors and will offer 20 different courses next semester; each professor will be assigned exactly 2 courses and each course exactly one professor, with any professor eligible for any course—how many distinct complete assignments of the 10 professors to the 20 courses are possible?",
+      "A ten-sided mathematics faculty with 10 professors must cover 20 distinct courses next term so that each professor teaches exactly two different courses and every course is taught by exactly one professor; if every course can be taught by any professor, in how many distinct complete assignments of professors to courses are possible?"
+    ],
+    "imperative": [
+      "Assign each of 10 professors to teach exactly two of 20 offered courses so that every course has one professor; in how many distinct complete assignments will all courses be covered if any professor may be chosen for any course?",
+      "A college mathematics department employs 10 faculty members and needs each of those faculty members to be assigned to teach exactly two distinct courses from a set of 20 distinct course offerings, with each course assigned to exactly one faculty member; assign the professors to courses in every possible way (any professor may teach any course). Count the total number of distinct full assignment configurations.",
+      "Assign each of the department’s 10 professors to teach exactly two of the 20 distinct courses so that every course has a single professor; count how many complete assignments are possible given any professor may teach any course?"
+    ],
+    "counterfactual": [
+      "Suppose, counterfactually, that none of the professors had teaching restrictions: a math department has 10 professors and there are 20 distinct courses next semester; each professor is to be assigned exactly 2 different courses and each course must be assigned to exactly one professor — how many distinct complete assignments of professors to the 20 courses are possible?",
+      "Suppose, counterfactually, that a department with 10 professors must each be assigned exactly two distinct courses out of 20 available courses, with every course assigned to exactly one professor; if any professor could teach any course, in how many distinct ways can the department assign professors to cover all 20 courses?",
+      "Suppose a mathematics department has 10 faculty members and there are 20 distinct courses to be taught next term; each faculty member will, counterfactually speaking, end up being responsible for exactly 2 distinct courses and every course is taught by exactly one faculty member — if any faculty member could have been chosen to teach any given course, in how many different complete allocations of the 10 faculty to the 20 courses are possible?"
+    ],
+    "subjunctive": [
+      "Suppose a university’s mathematics department were to assign its 10 professors to teach the 20 distinct courses offered next semester, with each professor being assigned exactly two courses and each course being taught by exactly one professor; if any professor could be chosen for any course, in how many possible complete assignment configurations would the department result?",
+      "Suppose the mathematics department were to assign each of its 10 professors to teach exactly two of the 20 distinct courses next semester, with each course taught by exactly one professor; if it were possible for any professor to be assigned to any course, in how many distinct complete assignments of professors to courses would there be?",
+      "Suppose the department were to assign its 10 professors to teach next semester's 20 courses so that each professor would be responsible for exactly 2 courses and each course would be taught by exactly one professor; if any professor could be assigned to any course, in how many distinct complete assignments would they be able to arrange the 10 professors among the 20 courses?"
+    ],
+    "algorithmic": [
+      "Using an algorithmic viewpoint, determine the number of distinct complete assignments of 10 professors to 20 courses next semester if each professor must be algorithmically paired with exactly 2 distinct courses and every course is assigned exactly one professor, assuming any professor may teach any course?",
+      "Using an algorithmic perspective, determine how many distinct ways an assignment algorithm can pair 10 professors with 20 distinct courses so that each professor is allocated exactly 2 different courses and each course is assigned to exactly one professor?",
+      "An algorithmic scheduler must assign 10 faculty members to teach 20 distinct courses next semester so that each professor is allocated exactly two different courses and each course is taught by exactly one professor; if every professor is eligible to teach any course, in how many distinct complete assignments can the scheduler produce the pairing of professors to courses?"
+    ],
+    "questioning": [
+      "A university mathematics department employs 10 professors and plans a schedule with 20 distinct courses next semester; each professor will be responsible for exactly two different courses and each course will be taught by exactly one professor. If any professor may be assigned to any course, in how many distinct ways can the department assign the 10 professors to cover all 20 courses, taking into account which specific courses each professor teaches?",
+      "A college math department employs 10 faculty members and needs to assign instructors to 20 distinct courses next term so that each faculty member is responsible for exactly 2 courses and every course is taught by exactly one faculty member; if any faculty member may be assigned any course, in how many different ways can the department produce a full assignment of faculty to courses, counting every distinct pairing of professors to specific courses as a different assignment?",
+      "A mathematics department has 10 professors and plans to staff 20 distinct courses next semester so that each professor teaches exactly two courses and each course is taught by exactly one professor; by treating all professors as distinguishable and all course assignments as distinguishable, in how many different ways can the department assign professors to the 20 courses while respecting these constraints?"
+    ],
+    "binomial": [
+      "A college has 10 faculty members and needs to assign each of 20 distinct course sections to exactly one faculty member, with the rule that every faculty member is responsible for precisely two sections; in how many ways can the full assignment of faculty to the 20 labeled sections be made (order of the two sections per professor irrelevant), recognizing a binomial-type grouping of the sections among professors?",
+      "A mathematics department has 10 professors and plans 20 distinct courses next term; each professor will be assigned exactly two different courses and every course will be taught by one professor. Assuming any professor may be assigned to any course, in how many distinct ways can the department assign the professors to the 20 courses (hint: consider treating assignments as ordered choices per professor and account for indistinguishability of the two courses per professor using a binomial-style division)?",
+      "A mathematics department has 10 faculty members and plans to staff 20 distinct course sections so that each faculty member is assigned exactly two sections and each section is taught by exactly one faculty member; assuming any faculty member may teach any section, in how many different complete assignments can the 10 faculty be paired with the 20 sections, taking into account that swapping the two sections assigned to the same professor does not produce a new assignment?"
+    ],
+    "reorganized": [
+      "A university mathematics department must reorganize its teaching assignments: there are 10 professors and 20 distinct courses next semester, with each professor to be assigned exactly two different courses and every course assigned to exactly one professor; if any professor may teach any course, in how many distinct ways can the department assign the 10 professors to cover all 20 courses?",
+      "A university mathematics department must reorganize teaching assignments for next semester: there are 10 professors and 20 distinct courses, and each professor will be assigned exactly 2 of the courses while each course is assigned to exactly one professor; assuming any professor may teach any course, in how many distinct ways can the department assign all 20 courses to the 10 professors?",
+      "A university math department has 10 faculty members who together will be responsible for teaching 20 distinct courses next semester; the schedule is arranged so each faculty member is assigned exactly two distinct courses and each course is taught by exactly one faculty member. If any of the 10 faculty may be assigned to any of the 20 courses, in how many reorganized ways can the department assign the professors to the courses so that every professor teaches two courses and every course has one professor?"
+    ],
+    "run-on": [
+      "A university mathematics department employs 10 professors and will offer 20 distinct courses next semester. Each professor must be assigned exactly two distinct courses, and each course must be assigned to exactly one professor. Assuming any professor may teach any course, in how many distinct ways can the department assign professors to all 20 courses?",
+      "A university mathematics department has 10 professors and will offer 20 distinct courses next semester, each professor is to be assigned exactly two different courses and each course will be taught by exactly one professor, if any professor may be assigned to any course how many different complete assignments of professors to the 20 courses are possible?",
+      "A university mathematics department employs 10 professors and needs to staff 20 distinct courses next semester, with the rule that each professor is to be responsible for exactly two different courses and every course must be taught by exactly one professor; assuming any professor may be assigned to any course, in how many ways can the department assign professors to courses (note: treat the two courses taught by a professor as an unordered pair, and avoid creating a run-on interpretation where order of assignment matters)?"
+    ],
+    "paraphrastic": [
+      "A college math department employs 10 faculty members and needs to staff 20 distinct classes next semester so that every instructor teaches exactly two courses and each course is taught by exactly one faculty member; if every faculty member is eligible to teach any class, in how many different ways can the faculty be assigned to cover all 20 courses?",
+      "A mathematics department with 10 professors must assign each professor to teach exactly two distinct courses out of 20 different offerings next semester, with each course taught by exactly one professor; if any professor is eligible to teach any course, in how many distinct ways can the department assign professors to all 20 courses?",
+      "A college math department has 10 faculty members and will offer 20 distinct courses next term; each faculty member will be assigned exactly two different courses and each course will be taught by exactly one faculty member. If any faculty member is eligible to teach any course, in how many distinct ways can the department assign the 10 professors to cover all 20 courses?"
+    ],
+    "arranged": [
+      "A university mathematics department has 10 professors and will offer 20 distinct courses next semester. Each professor is to be arranged to teach exactly 2 courses, and each course is to be arranged to have exactly one professor. If any professor may be arranged to teach any course, in how many different ways can the 10 professors be arranged among the 20 courses so that every course is assigned a professor and every professor teaches exactly two courses?",
+      "A university's mathematics department must arrange teaching duties so that its 10 professors are each assigned exactly 2 of the 20 distinct courses offered next semester, with every course arranged to have precisely one professor; if any professor may be arranged to teach any course, in how many distinct ways can the complete arrangement of professors to courses be made?",
+      "A university mathematics department has 10 professors and needs to arrange assignments so that each of 20 distinct courses is taught by exactly one professor and each professor is arranged to teach exactly 2 courses; if any professor may be arranged to teach any course, in how many different ways can the complete arrangement of professors to the 20 courses be made?"
+    ],
+    "abstractive": [
+      "A college math department has 10 faculty members and plans to staff 20 distinct class sections next term, with each faculty member responsible for exactly 2 distinct sections and each section taught by exactly one faculty member. If any faculty member may be assigned to any section, in how many ways can the department assign all 20 sections to the 10 faculty members?",
+      "A college math department has 10 faculty members and will run 20 distinct classes next term. Each faculty member is to be assigned exactly two different classes, and every class is to be taught by exactly one faculty member. Assuming any faculty member may be assigned to any class, in how many different ways can the department assign professors to cover all 20 classes?",
+      "A college math department employs 10 professors and needs to assign each of them to teach exactly two of the 20 distinct courses offered next semester, with each course taught by a single professor; assuming any professor may be assigned to any course, in how many different ways can the full assignment of professors to the 20 courses be carried out?"
+    ],
+    "abridged": [
+      "A college math department has 10 faculty members and plans to staff 20 distinct courses next term so that each faculty member teaches exactly two different courses and each course is taught by exactly one faculty member; if any faculty member may be assigned to any course, in how many distinct complete assignment schemes can the 20 courses be allocated to the 10 faculty members under these constraints?",
+      "A math department has 10 professors and 20 distinct courses; each professor is to be assigned exactly 2 distinct courses and each course gets exactly one professor. If any professor may teach any course, in how many different ways can the full assignment be made?",
+      "A university math department with 10 professors must cover 20 distinct courses next semester by assigning each professor exactly 2 courses and each course exactly one professor; if any professor may teach any course, how many distinct full assignments exist?"
+    ],
+    "amended": [
+      "A university mathematics department with 10 professors must assign each professor to teach exactly 2 distinct courses from a list of 20 different courses, with each course taught by exactly one professor; assuming any professor may be assigned to any course, how many distinct complete assignments (i.e., ways to pair every course with a professor so each professor teaches two courses) are possible, amended to ensure the counting treats the two courses assigned to the same professor as an unordered pair?",
+      "A university math department, amended to include 10 professors, needs to assign instructor responsibilities for 20 distinct courses next semester so that each professor is allocated exactly two distinct courses and each course is taught by exactly one professor; if every professor is eligible to teach any course, in how many distinct complete assignment arrangements can the department assign the 10 professors to the 20 courses?",
+      "A university mathematics department with 10 professors will be amended to assign teaching duties for 20 distinct courses next semester so that each professor is responsible for exactly 2 courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department make?"
+    ],
+    "abbreviated": [
+      "A math department has 10 professors and 20 courses; each professor is to teach exactly 2 distinct courses and each course is taught by exactly one professor. If any professor may be assigned to any course, in how many distinct complete assignments (where professors are labeled but the two courses each teaches are unordered) can the 20 courses be distributed among the 10 professors?",
+      "A math department has 10 professors who must each be assigned exactly 2 of the 20 distinct courses next term, with each course taught by exactly one professor; how many distinct complete assignment arrangements are possible?",
+      "A university math dept. has 10 profs and will run 20 distinct courses next term. Each prof is to be assigned exactly 2 courses and every course gets exactly one prof; any prof may teach any course. Using abbreviated notation where appropriate, how many distinct full assignments of profs to the 20 courses are possible?"
+    ],
+    "assignable": [
+      "A university mathematics department has 10 professors and plans to offer 20 courses next semester. Each professor is assignable to teach exactly two courses, and every course must be assignable to exactly one professor; any professor may be assigned to any course. How many distinct complete assignments of professors to the 20 courses are possible?",
+      "A math department at a university has 10 professors and plans to assign instructors to 20 distinct courses next term so that each professor is assignable to teach exactly two courses and each course is assigned to exactly one professor; if every course may be assigned to any professor, in how many different complete assignment configurations are the 20 courses assignable among the 10 professors (with each professor receiving exactly two courses)?",
+      "A college needs to assign 10 professors to teach 20 distinct classes next term so that each professor is assignable to exactly two different classes and every class is assigned one professor; assuming any professor is assignable to any class, in how many distinct complete assignments of professors to classes are possible?"
+    ],
+    "tailored": [
+      "A university math department with 10 professors must be tailored to cover 20 distinct courses next semester so that each professor is assigned exactly two courses and every course is taught by exactly one professor; assuming any professor may teach any course, in how many different complete assignment arrangements can the department assign professors to the 20 courses?",
+      "A mathematics department at a college is tailoring teaching loads so that its 10 professors will each be responsible for exactly 2 of the 20 distinct courses offered next semester, with each course taught by precisely one professor; if any professor may be assigned to any course, in how many distinct complete assignments of professors to courses can the department tailor these teaching schedules?",
+      "A university mathematics department with 10 professors needs a tailored assignment of instructors to 20 distinct courses next semester, with each professor assigned exactly 2 courses and each course taught by exactly one professor; if any professor may teach any course, in how many distinct complete assignments of professors to the 20 courses are possible?"
+    ],
+    "maximizing": [
+      "A university mathematics department must maximize the use of its teaching staff by assigning each of its 10 professors to teach exactly 2 of the 20 distinct courses offered next semester, with every course taught by exactly one professor; assuming any professor may teach any course, in how many different ways can the department assign professors to courses while satisfying these constraints?",
+      "A college math department must assign 10 professors so that each professor teaches exactly 2 of the 20 distinct courses offered next term, and each course is taught by exactly one professor; assuming any professor may be assigned to any course, in how many different complete assignments that satisfy these constraints can the department maximize the number of distinct professor-course pairings?",
+      "A university mathematics department must maximize the coverage of 20 distinct courses next semester by assigning its 10 professors so that each professor is responsible for exactly two courses and each course is taught by exactly one professor; if any professor may teach any course, in how many distinct ways can the department complete this assignment?"
+    ],
+    "contrastive": [
+      "Contrastively, consider a mathematics department at a university with 10 professors and 20 distinct courses next semester. Each professor is to be contrasted by being assigned exactly 2 courses, and each course must be contrasted by being assigned exactly one professor. If any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses do these contrastive pairings occur?",
+      "Contrast two ways of viewing the following assignment problem: a math department has 10 professors and 20 distinct courses; each professor is to be allocated exactly 2 different courses and each course is to be taught by exactly one professor. If any professor may teach any course, in how many distinct complete assignments of professors to the 20 courses do the allocations differ?",
+      "A college math faculty consists of 10 instructors and there are 20 distinct classes offered next term. Each instructor will be assigned exactly two different classes, and every class will be taught by exactly one instructor. Assuming any instructor may be assigned any class, in how many distinguishable full assignments of instructors to the 20 classes are there, emphasizing the contrast between ordering of classes and pairing of identical instructor slots?"
+    ],
+    "transformed": [
+      "A university’s mathematics faculty consists of 10 professors who together will cover 20 distinct courses next semester, with each professor being transformed into the instructor for exactly 2 courses and each course being taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department be transformed?",
+      "A university mathematics department with 10 professors must be transformed into a teaching plan for next semester by assigning each professor to teach exactly 2 of the 20 distinct courses offered, with each course taught by exactly one professor; if any professor may teach any course, in how many distinct complete assignments (counting which professor teaches which two specific courses) can the 20 courses be allocated among the 10 professors?",
+      "A mathematics department has 10 faculty members and must allocate 20 distinct course sections so that every faculty member is responsible for exactly two distinct sections and each section is taught by exactly one faculty member; assignments are unrestricted aside from these requirements. In how many distinct ways can the department assign the 10 faculty to the 20 labeled course sections (treating the two courses taught by a given professor as an unordered pair)?"
+    ],
+    "inverse": [
+      "A university's math department needs to assign 20 distinct courses to its 10 professors so that each professor teaches exactly two courses and each course is taught by exactly one professor; in how many different bijective pairings of professors to ordered pairs of courses (counting the two-course set taught by a professor as an unordered pair, so that swapping the two courses assigned to the same professor does not create a new assignment) can the department make these assignments where any professor may teach any course?",
+      "In how many distinct ways can a bijective assignment be made from the set of 20 courses to the multiset of 10 professors where each professor is assigned to exactly two courses, treating assignments that differ only by swapping the two course labels within a single professor’s pair as the same (i.e., accounting for the inverse ordering of the two-course assignment for each professor)?",
+      "A university mathematics department must assign its 10 professors to teach 20 distinct courses next semester so that each professor is responsible for exactly two courses and each course is taught by exactly one professor. If every assignment that pairs professors with courses is allowed, how many different complete assignments exist, expressed in a form that reflects treating the allocation as pairing 20 labeled course slots into 10 unordered pairs and then assigning those pairs to the 10 professors (hint: consider the inverse counting perspective of first grouping the 20 courses into 10 indistinguishable pairs and then permuting the professors)?"
+    ],
+    "designate": [
+      "A university mathematics department must designate teaching responsibilities for 20 distinct courses among its 10 professors so that each professor is designated to teach exactly 2 courses and each course is designated to have exactly one professor; if any professor may be designated to teach any course, in how many distinct ways can the department designate all professor-course assignments?",
+      "A college math department must designate 10 faculty members to cover 20 distinct courses next term so that each faculty member is designated to teach exactly 2 courses and each course is designated to be taught by exactly one faculty member; if any faculty member can be designated for any course, in how many different ways can the department make this complete designation?",
+      "A college math department must designate 10 faculty members to cover 20 distinct courses next term so that each faculty member is designated to teach exactly 2 courses and each course is designated to exactly one faculty member; if any faculty member may be designated to teach any course, in how many distinct complete designations of the 10 faculty to the 20 courses are possible?"
+    ],
+    "comparative": [
+      "Compared to assigning one professor per course, consider assigning the department’s 10 professors to the 20 courses so that each professor teaches exactly two courses and every course has one professor; if any professor is eligible to teach any course, in how many distinct complete assignments of professors to courses can the department be organized?",
+      "A mathematics department with 10 professors must distribute responsibility for 20 distinct courses so that each professor is responsible for exactly 2 courses and every course is handled by exactly one professor. Compared to simply choosing an ordered sequence of 20 professors (with repetitions allowed), in how many distinct ways can the department assign the 10 professors to the 20 labeled courses under the given constraint that each professor teaches exactly two courses?",
+      "A mathematics department has 10 professors and is scheduling 20 distinct courses for next semester so that each professor is assigned exactly 2 different courses and each course is taught by exactly one professor; compared to counting all arbitrary assignments of professors to courses, how many distinct full assignments satisfy these constraints?"
+    ],
+    "simplified": [
+      "A math department has 10 professors and 20 courses. Each professor is to teach exactly 2 courses and each course is taught by exactly one professor; any professor can teach any course. How many distinct ways can all 20 course assignments be made given these conditions?",
+      "A college math department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor so that every professor teaches exactly 2 courses. Assuming any professor may teach any course, in how many different ways can the department assign professors to the 20 courses if order of the two courses per professor does not matter?",
+      "A university math department has 10 professors and 20 distinct courses next semester. Each professor is to be assigned exactly 2 different courses, and every course must be taught by exactly one professor. If any professor may teach any course, in how many simplified ways can the department assign professors to all 20 courses?"
+    ],
+    "reversed": [
+      "A university mathematics department has 10 professors and plans to staff 20 different courses next semester so that each professor is assigned exactly two distinct courses and every course is taught by exactly one professor; in how many distinct ways can the department assign professors to courses if any professor may teach any course and assignments that only swap the order of a professor’s two courses are considered the same (i.e., the pairings of courses to professors are unordered)?",
+      "Ten professors must be paired in reverse with the twenty distinct courses so that each professor ends up teaching exactly two courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct ways can the full assignment be made?",
+      "A mathematics department has 10 professors and is to assign each of them to teach exactly 2 of the 20 distinct courses offered next term, with each course taught by precisely one professor; if any professor may be paired with any course, in how many distinct complete assignments of professors to courses are possible when the two courses taught by each professor are considered unordered (i.e., reversed order of the two courses assigned to the same professor does not produce a different assignment)?"
+    ],
+    "emended": [
+      "A university mathematics department employs 10 professors and plans to staff 20 distinct courses next semester, assigning each professor to teach exactly two different courses and each course to be taught by exactly one professor; assuming any professor is eligible to teach any course, in how many distinct ways can the department assign professors to the 20 courses (with the two-course teaching load of each professor unlabeled)?",
+      "A university math department employs 10 professors and plans to cover 20 distinct courses next term, assigning each professor to teach exactly two different courses and each course to be taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete teaching assignments (where the order of the two courses assigned to a given professor does not matter) can the department be arranged emended?",
+      "A college math department employs 10 faculty members and needs to assign each of 20 distinct courses to exactly one faculty member so that every faculty member teaches precisely 2 courses; if any faculty member may teach any course, in how many distinct ways can the department assign professors to all 20 courses when order of the two courses taught by a given professor is irrelevant and assignments that differ only by swapping which of a professor’s two courses is listed are considered the same?"
+    ],
+    "clarifying": [
+      "Clarifying: A university mathematics department has 10 distinct professors and will offer 20 distinct courses next semester; each professor must be assigned exactly 2 different courses and each course must be assigned to exactly one professor—if any professor can teach any course, in how many distinct complete assignments (pairings of professors to courses) are possible?",
+      "Clarifying the assignment: a university mathematics department has 10 professors and will offer 20 distinct courses next semester; each professor must be assigned to teach exactly two courses and each course must be taught by exactly one professor, with any professor eligible to teach any course — in how many distinct ways can the 10 professors be assigned to the 20 courses?",
+      "A university mathematics department has 10 distinct professors and will offer 20 distinct courses next semester. Each professor will be assigned exactly two different courses to teach, and each course will be taught by exactly one professor. Assuming every professor is eligible to teach any course and assignments are distinguished only by which professor is assigned to which course (not by order of the two courses per professor), in how many distinct complete assignment patterns can the 20 courses be assigned to the 10 professors?"
+    ],
+    "synonymous": [
+      "A college math department employs 10 faculty members and needs to staff 20 distinct courses next term so that each faculty member is responsible for exactly 2 courses and each course is taught by exactly one faculty member; if any faculty member may be assigned to any course, in how many distinct ways can the full assignment of professors to the 20 courses be made?",
+      "A college math department employs 10 faculty members and intends to schedule instruction for 20 distinct classes next term so that each faculty member is allocated exactly 2 classes and each class is taught by exactly one faculty member; if any faculty member may be assigned to any class, in how many distinct full assignments of faculty to classes are there?",
+      "A college mathematics faculty consists of 10 professors and there are 20 distinct courses to be taught next semester. Each professor will be allotted exactly two of the courses, and every course is to be taught by exactly one professor. Assuming any professor may be allotted any course, in how many distinct complete assignments of professors to the 20 courses are there?"
+    ],
+    "antithetic": [
+      "A college math faculty consists of 10 instructors who together will cover 20 distinct classes next term, with each instructor responsible for exactly two different classes and every class taught by exactly one instructor; assuming any instructor may be assigned any class, in how many antithetically distinct complete assignment patterns of instructors to the 20 courses can be formed?",
+      "A university math department employs 10 professors and needs to assign them to teach 20 distinct courses next semester, with the requirement that each professor is assigned exactly two courses and each course is taught by exactly one professor; assuming any professor may be paired with any course, in how many antithetic-complete ways can the 10 professors be assigned to the 20 courses?",
+      "A university math department has 10 professors and plans to cover 20 distinct courses next semester, with each professor teaching exactly two courses and every course taught by exactly one professor; assuming any professor may teach any course, in how many antithetic but complete ways can the 20 courses be assigned to the 10 professors (so that each professor receives exactly two courses)?"
+    ],
+    "comparable to": [
+      "A university math department with 10 professors must each be assigned exactly 2 of the 20 distinct courses offered next semester, with every course being taught by exactly one professor; assuming any professor is comparable to any course in that any professor may be assigned to teach any course, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A mathematics department with 10 professors must assign each professor to teach exactly 2 of the 20 different courses offered next semester, with every course taught by exactly one professor; assuming any professor is comparable to any course for assignment purposes (i.e., there are no restrictions on who may teach which course), in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A university math department employs 10 professors and will schedule instruction for 20 distinct courses next semester; each professor is to be comparably assigned exactly 2 courses and each course is to have exactly one professor responsible for it — if every professor is eligible to teach any course, in how many distinct complete assignments of professors to the 20 courses can the department produce?"
+    ],
+    "deductive": [
+      "Using a deductive approach, determine the number of distinct ways to assign 10 professors to teach 20 distinct courses next semester if each professor is to be assigned exactly 2 different courses and each course is taught by exactly one professor, assuming any professor may be assigned to any course?",
+      "Using deductive reasoning, determine the number of ways to assign 10 professors to 20 distinct courses if each professor is to teach exactly 2 courses and each course is taught by exactly one professor?",
+      "Using a deductive approach, determine the number of distinct ways to assign 10 professors to teach 20 distinct courses next semester if each professor is to be assigned exactly 2 courses and each course must be taught by exactly one professor?"
+    ],
+    "accessible": [
+      "A university mathematics department with 10 professors needs to assign each professor to teach exactly 2 of the 20 different courses offered next semester, with each course taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete assignments (so that every course is assigned and every professor teaches exactly two courses) are possible?",
+      "An accessible scheduling scenario: a college math department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor so that each professor teaches exactly 2 courses; every professor is qualified to teach every course. How many distinct complete assignments of professors to courses are possible?",
+      "A university math department has 10 accessible professors and will run 20 courses next semester. Each professor must be scheduled to teach exactly 2 different courses, and every course is taught by exactly one professor. If any professor may be assigned to any course, in how many distinct complete assignment arrangements of professors to the 20 courses are possible?"
+    ],
+    "inverted": [
+      "A mathematics department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor, with every professor teaching exactly 2 courses; assuming any professor may teach any course and assignments are distinguished only by which professor teaches which course (not by order of the two courses assigned to a professor), in how many different complete assignment configurations can the department assign professors to the 20 courses using an inverted perspective that treats the professors as unordered recipients of their paired course assignments?",
+      "Inverted from the usual perspective: there are 20 distinct courses and 10 distinct professors, and each professor must be paired with exactly 2 distinct courses while each course is assigned to exactly one professor; counting all possible complete assignments (with any professor eligible for any course), how many such assignments exist?",
+      "In an inverted scheduling scheme, a mathematics department with 10 professors must cover 20 distinct courses next semester by assigning each professor exactly two courses and giving each course exactly one professor; assuming any professor may teach any course, in how many distinct full assignments (pairings of professors to their two-course sets) can the department be arranged?"
+    ],
+    "concrete": [
+      "A college math department employs 10 professors and needs to assign them to teach 20 distinct courses next semester so that every course has exactly one professor and each professor teaches exactly two courses; assuming every professor is eligible to teach every course, how many distinct full assignment configurations (listing which professor teaches each of the 20 concrete, labeled courses) are possible?",
+      "A college math department employs 10 professors and has a concrete list of 20 distinct courses to run next semester. Each professor will be concretely responsible for exactly 2 of those courses, and each course will be concretely assigned to one professor. Assuming any professor may be assigned to teach any course, in how many distinct full assignments of professors to the 20 course slots are possible?",
+      "A college math department hires 10 faculty members and needs to assign each of them two distinct courses from a pool of 20 different course sections so that every section is covered by exactly one faculty member; if any faculty member may teach any section, in how many distinct concrete ways can the department assign the 10 faculty to the 20 sections?"
+    ],
+    "disjunctive": [
+      "A college math department has 10 faculty members and needs to assign each of 20 distinct courses to exactly one faculty member so that every faculty member teaches exactly 2 courses; assignments are unrestricted aside from these requirements. How many distinct complete assignments of faculty to courses are there, counting different pairings and course distributions as different outcomes?",
+      "A university mathematics department has 10 professors and plans to staff 20 distinct courses next semester, with the condition that each professor will be assigned to teach exactly 2 of the courses and each course will be taught by exactly one professor; assuming any professor may teach any course, in how many different complete assignments of professors to the courses are there if the two courses taught by a professor are considered an unordered pair (i.e., assignments that differ only by swapping the two course labels within a professor’s pair are not distinct)?",
+      "A mathematics department comprises 10 professors and there are 20 distinct courses to be taught next term; each course is to be taught by exactly one professor and each professor will be assigned exactly two courses, with any professor eligible to teach any course — in how many distinct complete assignments of professors to the 20 courses (viewed as ordered allocations of courses to professors, disregarding any labeling of the two courses taught by the same professor) does this disjunctive allocation occur?"
+    ],
+    "elaborate": [
+      "A university mathematics department comprises 10 professors and will list 20 distinct courses for the upcoming semester. The department will assign each professor to teach exactly two courses, and each course will be taught by exactly one professor; any given professor is eligible to be assigned to any course. Elaborate on how many distinct full assignment schemes (that is, bijective allocations of the 20 course slots to professors, with each professor occupying exactly two slots and order among the two courses a professor teaches disregarded) are possible?",
+      "A university mathematics department consisting of 10 distinct professors needs to assign instructors to 20 distinct courses next semester so that each professor is responsible for exactly two courses and every course is taught by exactly one professor; in how many different ways can the department make a complete assignment of professors to the 20 labeled courses if any professor may be assigned to any course?",
+      "An academic department has ten faculty members and will offer twenty distinct courses next term; each faculty member is to be scheduled to teach exactly two different courses and every course will be taught by exactly one faculty member. Assuming there are no restrictions on which professor can be assigned to which course, in how many distinct ways can the department assign the ten professors to cover all twenty courses?"
+    ],
+    "logical": [
+      "A college math department has 10 professors and needs to designate instructors for 20 distinct courses next term so that each professor is assigned exactly two different courses and each course is taught by exactly one professor; assuming every professor may teach any course, in how many logically distinct complete instructor-to-course assignment configurations can the department choose?",
+      "A university math department has 10 professors and plans to staff 20 distinct courses next semester so that every professor is assigned exactly 2 courses and every course is taught by exactly one professor; assuming any professor may teach any course and treating assignments that differ by which specific course is given to which professor as distinct, how many logically distinct complete assignments of professors to the 20 courses are possible?",
+      "A university mathematics department with 10 distinct professors must assign each professor to teach exactly 2 of the 20 distinct courses offered next semester, with each course taught by exactly one professor; assuming any professor may be assigned to any course and no further restrictions apply, in how many logically different complete assignments of professors to courses can the department make?"
+    ],
+    "otherwise": [
+      "A university math department must assign its 10 professors to teach 20 distinct courses next semester so that each professor teaches exactly 2 courses and every course has exactly one professor; otherwise some professor would be assigned a different number of courses — if any professor is eligible to teach any course, in how many distinct ways can the full assignment of professors to the 20 courses be made?",
+      "A university’s mathematics department employs 10 professors and plans to offer 20 distinct courses next semester; each professor must be assigned exactly 2 courses and every course must be taught by exactly one professor, and otherwise no restrictions on who may teach which course apply — in how many distinct ways can the department assign professors to the 20 courses so that each professor teaches exactly two courses?",
+      "A college math department has 10 faculty members and plans to staff 20 distinct courses next semester so that each faculty member is scheduled to teach exactly two courses and every course is taught by exactly one faculty member; in how many distinct ways can the assignments be made if any faculty member may be assigned to any course, otherwise count assignments that differ only by which two courses each professor teaches as different?"
+    ],
+    "corrective": [
+      "A college math department employs 10 professors and offers 20 distinct courses next term. Each professor is to be assigned exactly two courses, and each course is to be taught by exactly one professor; any professor may be assigned to any course. Using a corrective approach to ensure assignments are counted without overcounting due to the unordered pair of courses per professor, how many different complete assignments of professors to the 20 courses are possible?",
+      "A college math department employs 10 faculty members and needs to allocate 20 distinct course sections so that each faculty member is assigned exactly two distinct sections and every section is taught by exactly one faculty member; assuming any faculty member may teach any section, in how many different complete assignment configurations can the department distribute the 20 courses among the 10 professors using this corrective pairing constraint?",
+      "A university math department employs 10 professors and is scheduling instruction for 20 distinct courses next semester. Each professor is to be allocated exactly two different courses to teach, and every course must be taught by exactly one professor; any professor may be assigned to any course. Using a corrective perspective to ensure there is no overcounting due to the indistinguishability of the two course slots per professor, in how many different complete assignments of professors to the 20 courses can be made?"
+    ],
+    "reverse": [
+      "A university math department must reverse the usual assignment process: instead of selecting which two courses each of its 10 professors will teach from a pool of 20 distinct courses, imagine building a complete schedule by assigning each of the 20 courses to exactly one professor so that each professor ends up teaching precisely two courses — in how many distinct ways can the department perform this assignment?",
+      "A mathematics department has 10 professors and schedules 20 distinct courses. Each professor is to be assigned exactly two different courses, and every course must be taught by exactly one professor. Assuming any professor may be assigned to any course, in how many distinct ways can the complete assignment of professors to the 20 courses be made if we consider assignments that differ only by swapping the order of the two courses assigned to the same professor as identical?",
+      "A mathematics department with 10 professors must assign each professor to teach exactly two of the 20 distinct courses next term, so that each course is taught by exactly one professor; if all assignments are allowed, in how many different ways can the professors be assigned to the 20 courses when considering the reverse perspective of choosing which pairs of courses go to each professor?"
+    ],
+    "contrasting": [
+      "Contrasting the roles of professors and courses: a math department has 10 professors and will run 20 distinct courses next semester, with every professor responsible for exactly 2 courses and every course taught by exactly one professor; if any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A mathematics department at a university must assign 10 professors to teach 20 distinct courses so that each professor is responsible for exactly 2 courses and each course is taught by exactly one professor; contrast the many possible ways to pair professors with courses when any professor is eligible to teach any course — in how many distinct complete assignment configurations can the department assign the professors to the 20 courses?",
+      "Contrasting the roles of professors and courses, suppose a university math department has 10 professors and is offering 20 distinct courses next semester; each professor will be assigned exactly two different courses to teach and each course will be taught by exactly one professor, and any professor is eligible to teach any course — in how many distinct full assignment patterns (where which professor teaches which two courses matters) can the 20 courses be distributed among the 10 professors?"
+    ],
+    "conditional": [
+      "A university mathematics department has 10 professors and there are 20 distinct courses next semester. Under the condition that every professor is assigned exactly two distinct courses and every course is assigned exactly one professor, and given that any professor is eligible to teach any course, in how many different complete assignment configurations of professors to courses can the department arrange the schedule?",
+      "A university mathematics department employs 10 faculty members and must conditionally assign each of 20 distinct courses to exactly one instructor so that each professor ends up responsible for exactly two courses; assuming every professor is eligible to teach every course and assignments are ordered only by course (not by the ordering of the two courses per professor), in how many distinct complete assignments of professors to the 20 courses can the department make?",
+      "A university math department has 10 professors and is offering 20 distinct courses next term. A complete assignment condition requires that each professor be assigned exactly two distinct courses and each course be assigned to exactly one professor. Assuming any professor may teach any course, in how many distinct ways can the department assign professors to all 20 courses (counting different pairings of courses to professors as different assignments)?"
+    ],
+    "opposite": [
+      "A university’s mathematics department has 10 professors and will offer 20 different courses next semester. Each professor must be assigned exactly two distinct courses to teach, and every course must be taught by exactly one professor; assignments are unrestricted aside from these requirements. Using the principle of counting the assignments opposite to first pairing up the courses, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A university math department has 10 professors and will offer 20 different courses next semester; each professor will teach exactly 2 courses and each course is taught by exactly one professor. In how many distinct ways can the department assign professors to courses if any professor may be assigned to any course, considering that swapping the two courses taught by the same professor does not produce a different assignment because the order of the professor's assigned courses is the opposite of swapping them?",
+      "A college has 20 distinct classes to fill and 10 distinct instructors, with each instructor required to teach exactly 2 different classes and each class assigned to exactly one instructor; assignments may pair any instructor with any class. Using the idea of counting arrangements by pairing up courses with instructors and then considering the effect of swapping the two courses taught by any single instructor (i.e., treating the order of the two courses assigned to an instructor as irrelevant, the opposite of ordering them), in how many distinct complete assignment schemes can the classes be distributed among the instructors?"
+    ],
+    "contradictory": [
+      "A college math department has 10 faculty members and there are 20 distinct classes to be taught next term; each faculty member must be assigned to exactly two different classes and every class is taught by exactly one faculty member. If any faculty member may be assigned to any class, in how many distinct ways can the complete assignment of faculty to the 20 classes be made given that counting arrangements which only differ by swapping the two courses of the same professor are not considered contradictory?",
+      "A mathematics department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor, with the restriction that every professor is assigned exactly 2 courses; in how many distinct ways can the department carry out this assignment without any further restrictions, noting that an assignment and its contradictory labeling of the two courses given to the same professor are considered the same?",
+      "A university math department employs 10 professors and needs to assign each of 20 distinct courses to exactly one professor so that every professor teaches exactly two courses; assuming any professor may be assigned any course and there are no contradictory restrictions on assignments, in how many different ways can the department make a complete assignment of professors to courses?"
+    ],
+    "inefficient": [
+      "A university’s mathematics department inefficiently assigns its 10 professors to teach 20 distinct courses next semester so that each professor ends up teaching exactly 2 courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct complete assignments can the department make under this scheme?",
+      "A university mathematics department employs 10 professors and needs to assign them to teach 20 distinct courses next semester, with the constraint that each professor must inefficiently be scheduled to teach exactly 2 courses and every course must be taught by exactly one professor; if any professor may be assigned to any course, in how many different complete assignments of professors to courses can the department make?",
+      "A university mathematics department must inefficiently allocate teaching duties: there are 10 professors and 20 distinct courses next semester, each professor is to be assigned exactly 2 different courses and each course must be taught by exactly one professor; if any professor may be assigned any course, in how many distinct complete assignments of professors to courses can the department make?"
+    ],
+    "interrogative": [
+      "A university math department employs 10 professors and plans to offer 20 distinct courses next semester; each professor will be assigned exactly two courses and every course will be taught by exactly one professor — if any professor may be assigned to any course, in how many different ways can the 10 professors be completely assigned to the 20 courses?",
+      "In how many distinct ways can a university assign its 10 professors so that each professor is scheduled to teach exactly two of the 20 offered courses and each course is taught by exactly one professor?",
+      "In how many distinct ways can 10 professors be each assigned exactly 2 of 20 distinct courses, with every course assigned to exactly one professor and no restrictions on which professor may teach which course?"
+    ],
+    "alternate": [
+      "A university mathematics department has 10 professors and will offer 20 distinct courses next semester. Each professor will be assigned as the instructor for exactly two courses, and every course will be assigned exactly one professor. If any professor may alternatively be chosen to teach any course, in how many different complete assignments of professors to the 20 courses are possible?",
+      "A college math division employs 10 faculty members and needs to staff 20 distinct classes for the coming term so that each faculty member is responsible for exactly 2 different classes and each class is taught by exactly one faculty member; if any faculty member may be assigned any class, in how many distinct complete assignment configurations can the 10 faculty be allocated to the 20 classes following these constraints?",
+      "A college math department has 10 faculty members and must assign each of 20 distinct classes to exactly one faculty member so that every faculty member teaches exactly two classes; in how many distinct ways can the department alternately allocate the 20 courses among the 10 professors (treating professors as labeled and classes as labeled)?"
+    ],
+    "instructive": [
+      "A university mathematics department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor so that every professor teaches exactly 2 courses; any professor may be assigned any course. In how many different ways can the department make this complete assignment?",
+      "A college mathematics department has 10 faculty members and plans to staff 20 distinct courses next term so that each faculty member is responsible for exactly 2 different courses and every course is taught by exactly one faculty member; assuming any faculty member may be assigned to any course, how many distinct full assignments of faculty to the 20 courses are possible?",
+      "Instructive: A university mathematics department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor, with the requirement that every professor teaches exactly 2 courses; assuming any professor may be assigned any course, how many distinct complete assignments of professors to the 20 courses are possible?"
+    ],
+    "rolled into one": [
+      "A college's math faculty consists of 10 instructors and they need to be rolled into one schedule covering 20 distinct classes next term, with each instructor responsible for exactly 2 classes and each class taught by exactly one instructor; if any instructor may be assigned to any class, in how many distinct ways can the complete assignment of instructors to the 20 classes be arranged?",
+      "A university mathematics department with 10 professors must assign exactly 2 of the 20 different courses next semester to each professor so that each course has exactly one instructor; viewing each professor’s two-course load as rolled into one paired assignment, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A university mathematics faculty consists of 10 professors who between them must be collectively assigned to teach a total of 20 distinct courses next semester, with each professor responsible for exactly two of the courses and each course taught by exactly one professor; treating each complete mapping of professors to courses (where the two courses taught by any professor are not ordered) as a distinct assignment and allowing any professor to be assigned to any course, in how many different ways can the entire teaching schedule be rolled into one complete assignment?"
+    ],
+    "concise": [
+      "A department with 10 professors must assign each professor to teach exactly 2 of 20 distinct courses, with each course taught by exactly one professor; how many complete assignments are possible?",
+      "Ten professors must each be assigned exactly two distinct courses out of 20 available courses, with each course taught by exactly one professor; how many distinct complete assignments are possible?",
+      "A math department with 10 professors must assign each professor to teach exactly 2 of 20 distinct courses, with each course taught by exactly one professor; if any professor may teach any course, how many distinct complete assignments of professors to courses are possible?"
+    ],
+    "comprehensible": [
+      "A college math department employs 10 professors and plans to offer 20 distinct courses next term. Every course will be taught by exactly one professor, and each professor will be assigned to teach exactly two different courses; any professor is eligible to teach any course. In how many distinct ways can the department assign professors to the 20 courses so that these conditions are satisfied?",
+      "A college math department has 10 faculty members and needs to assign each of 20 distinct courses to exactly one faculty member so that every faculty member teaches exactly 2 courses; any faculty member may teach any course. In how many distinct ways can the courses be fully assigned to the faculty under these conditions?",
+      "A college math department has 10 faculty members and plans to offer 20 distinct courses next term. Each faculty member will be responsible for exactly two different courses, and each course will be taught by exactly one faculty member; any faculty member may teach any course. How many distinct complete assignments of the 10 faculty members to the 20 courses are possible?"
+    ],
+    "analogical": [
+      "Imagine assigning 10 distinct tutors to cover 20 distinct workshop slots such that each tutor is responsible for exactly 2 distinct workshops and every workshop is led by exactly one tutor; allowing any tutor to be paired with any workshop, in how many different ways can the complete allocation be arranged?",
+      "Consider an analogy: ten orchestra conductors are each to be scheduled to lead exactly two of twenty distinct performances next season, with every performance led by exactly one conductor and any conductor eligible to lead any performance. In how many different ways can the complete scheduling of conductors to performances be arranged?",
+      "A college math department employs 10 faculty members and will schedule 20 distinct class sections next term. Each faculty member will be responsible for teaching exactly 2 sections, and every section will be taught by exactly one faculty member. If any faculty member may be assigned to any section, in how many different complete assignments of the 10 faculty to the 20 sections are possible?"
+    ],
+    "many a": [
+      "Many a mathematics department at a university employs 10 professors and will offer 20 distinct courses next semester; each professor is to be assigned exactly 2 courses and each course exactly one professor — if any professor may be assigned to any course, how many different complete assignments of the 10 professors to the 20 courses are possible?",
+      "Many a university mathematics department has 10 professors and plans to offer 20 distinct courses next semester; each professor is to be assigned exactly 2 courses and every course is to be taught by exactly one professor. If any professor may teach any course, in how many different ways can the department assign the 10 professors to the 20 courses so that each professor ends up with exactly 2 courses?",
+      "A university’s mathematics department employs 10 professors and will offer 20 distinct courses next semester. Many a professor will be tasked with exactly two courses, and every course will be handled by exactly one professor; if any of the professors may be assigned to teach any course, in how many different ways can the department assign the 10 professors to the 20 courses so that each professor teaches exactly two courses?"
+    ],
+    "concessive": [
+      "Although each professor must end up teaching exactly two courses and every course must be taught by exactly one professor, in how many distinct ways can the department assign its 10 professors to the 20 courses if any professor may be allocated to any course?",
+      "Even though each of the department’s 10 professors will be responsible for teaching exactly 2 of the 20 distinct courses next semester (and each course must be taught by exactly one professor), in how many distinct ways can the department assign professors to all 20 courses if any professor may be assigned any course?",
+      "Although each of the 10 professors must teach exactly two of the 20 distinct courses and each course is taught by exactly one professor, in how many distinct ways can the department assign professors to courses if any professor may be assigned any course?"
+    ],
+    "different": [
+      "A university mathematics department employs 10 professors and plans to schedule instruction for 20 distinct courses next semester; each professor is to be scheduled for exactly two courses and every course must be assigned exactly one professor. Assuming any professor may be assigned to teach any of the courses, in how many different complete assignment configurations of professors to courses can the department create?",
+      "A college math department has 10 professors and needs to assign exactly 2 distinct courses to each professor from a list of 20 different courses so that every course is taught by exactly one professor; in how many different ways can the department assign the 10 professors to the 20 courses (where courses are distinct and professors are distinguishable)?",
+      "A university mathematics department employs 10 professors and plans to offer 20 different courses next semester; each professor will be assigned exactly two distinct courses and each course will be taught by exactly one professor — if any professor may be assigned to any course, in how many different ways can the department assign the 10 professors to cover all 20 courses?"
+    ],
+    "indirect": [
+      "A mathematics department at a university must indirectly allocate instructional duties: there are 10 faculty members and 20 distinct courses next term, and each faculty member will end up responsible for exactly 2 different courses while every course is taught by exactly one faculty member; if any faculty member may be assigned to any course, in how many distinct ways can the department complete this assignment?",
+      "A college math department employs 10 faculty members and plans to allocate 20 distinct classes next term so that each faculty member is assigned exactly two distinct classes and every class is assigned to exactly one faculty member; using an indirect counting approach, in how many different ways can the department assign the professors to the 20 courses?",
+      "A university mathematics department has 10 professors and needs to assign each of 20 distinct courses to exactly one professor so that every professor teaches exactly two courses; in other words, partition the 20 labeled courses into 10 ordered pairs and then assign those pairs to the 10 professors — counting all distinct complete assignments where any professor may teach any course, how many different assignments are possible?"
+    ],
+    "coordinating": [
+      "A university mathematics department must coordinate assignments so that its 10 professors collectively cover 20 distinct courses next semester, with each professor coordinated to teach exactly 2 courses and every course coordinated with exactly one professor; if any professor may be assigned any course, in how many distinct ways can the department coordinate a complete assignment of professors to the 20 courses?",
+      "A university’s mathematics department must coordinate the teaching schedule for next semester: there are 10 professors and 20 distinct courses, and the department will assign each professor to teach exactly two courses while each course is taught by exactly one professor; if every professor is eligible to teach any course, in how many distinct ways can the department coordinate a complete assignment of professors to the 20 courses?",
+      "A mathematics department at a university must coordinate assignments of 10 professors to teach 20 distinct courses next semester so that each professor is scheduled for exactly 2 courses and each course is taught by exactly one professor; if any professor may be paired with any course, in how many different complete coordinated assignments of professors to the 20 courses are possible?"
+    ],
+    "in order": [
+      "A university’s mathematics department has 10 professors and will offer 20 different courses next semester; in order to staff the schedule, each professor must be assigned exactly two distinct courses and each course must be taught by exactly one professor, and any professor may be assigned to teach any course — in how many different complete assignments of professors to the 20 courses are possible?",
+      "A university department must, in order, assign 10 professors to teach a total of 20 distinct courses next semester so that each professor is assigned exactly 2 courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many different complete assignments (where the order of the two courses assigned to a given professor does not matter) can the department make these in order?",
+      "A university mathematics department has 10 professors and will offer 20 distinct courses next semester. In order to assign teaching duties, each professor is to be allocated exactly 2 of the courses and each course is to be taught by exactly one professor; any professor may be assigned to any course. In how many different complete assignments of professors to the 20 courses are possible?"
+    ],
+    "articulate": [
+      "Articulate the following scheduling problem: A college math faculty consists of 10 professors and the department will offer 20 distinct courses next term. Each professor is to be allocated exactly two distinct courses to teach, and every course must be taught by exactly one professor; any professor may teach any course. How many distinct complete allocations of professors to courses satisfy these requirements?",
+      "Articulate this scenario: a university math department employs 10 professors and offers 20 distinct courses next semester. Each professor is to be assigned exactly two different courses, and every course is taught by exactly one professor. If any professor may be chosen for any course, in how many distinct ways can the department assign professors to all 20 courses?",
+      "Articulate the number of distinct ways to assign 10 professors to teach 20 distinct courses next semester if each professor is to be scheduled for exactly 2 different courses and every course is allotted exactly one professor, assuming any professor may be assigned to any course?"
+    ],
+    "numerous": [
+      "A university’s mathematics faculty consists of 10 professors and there are 20 distinct courses to be offered next semester; each professor will teach exactly two courses and each course will be taught by exactly one professor. Assuming any of the professors may be assigned to any course, in how many numerous but distinct ways can the 10 professors be assigned to the 20 courses so that every course has one instructor and every professor teaches two courses?",
+      "A college has 10 faculty members in its math division and plans to run 20 distinct classes next term. Each faculty member will be responsible for teaching exactly two distinct classes, and every class will be taught by exactly one faculty member. Assuming any faculty member may be assigned to any class and that the order of a faculty member’s two assigned classes does not matter, in how many different complete assignment arrangements can the 20 classes be distributed among the 10 faculty members given that numerous assignments are possible?",
+      "A university mathematics department employs 10 professors and plans to offer 20 distinct courses next semester; each professor will be responsible for teaching exactly 2 of these numerous courses, and each course will be taught by exactly one professor. Assuming any professor may be assigned to any course, in how many different complete ways can the 10 professors be assigned to teach the 20 courses?"
+    ],
+    "directing": [
+      "A university mathematics department with 10 professors must direct instruction for 20 distinct courses next semester, assigning each professor to direct exactly 2 courses and each course to be directed by exactly one professor; if any professor may be directed to teach any course, in how many distinct ways can the department direct all 10 professors to the 20 courses?",
+      "A university mathematics department with 10 professors must direct assignments so that each professor is responsible for exactly 2 of the 20 distinct courses offered next semester, and each course is directed by exactly one professor; if any professor may be directed to teach any course, in how many distinct ways can the department direct all 10 professors to the 20 courses?",
+      "A university math department has 10 faculty members and needs to assign all 20 distinct courses next semester so that each faculty member directs exactly 2 courses and every course is directed by exactly one faculty member; if any faculty member may be directed to any course, in how many ways can the department direct all 20 courses among the 10 faculty members?"
+    ],
+    "interchangeable": [
+      "A college math department has 10 professors who will each be assigned exactly two of the 20 distinct courses offered next semester, with each course taught by exactly one professor; if any professor is permitted to teach any course and the two slots for a single professor are interchangeable, in how many distinct full assignments of professors to the 20 courses can be made?",
+      "A college has 10 indistinguishable teaching positions held by 10 professors and plans to offer 20 distinct classes next semester, with each professor responsible for exactly 2 different classes and each class taught by exactly one professor; if any professor may be matched with any class and the two classes taught by the same professor are interchangeable, in how many distinct full assignments of professors to the 20 classes are possible?",
+      "A college has 10 interchangeable math instructors and needs to schedule 20 distinct courses so that each instructor is assigned exactly two distinct courses and every course is taught by exactly one instructor; assuming any instructor can teach any course, in how many different complete assignment configurations are the instructors assigned to the 20 courses?"
+    ],
+    "time-consuming": [
+      "A university mathematics department with 10 professors must create a teaching schedule for next semester covering 20 distinct courses; assigning each professor exactly 2 courses and each course exactly one professor, and assuming any professor may teach any course, in how many distinct full assignments can the department allocate professors to courses if enumerating all possibilities would be extremely time-consuming?",
+      "A university mathematics department, pressed by a time-consuming process of scheduling, must assign 10 professors to teach 20 distinct courses next semester so that each professor is responsible for exactly 2 courses and each course is assigned to exactly one professor; if any professor may be assigned to any course, in how many different complete assignment configurations can the department arrange the teaching duties?",
+      "A college math department has 10 faculty members and needs to schedule 20 distinct classes for next semester so that each faculty member is assigned exactly two different classes and every class is taught by exactly one faculty member. Assuming any faculty member can teach any class and that assigning Professor A to Class X and Professor B to Class Y is considered different from assigning A to Y and B to X, in how many total ways can the department complete this time-consuming assignment task?"
+    ],
+    "counterintuitive": [
+      "A seemingly counterintuitive scheduling problem: a university math department employs 10 professors and needs instructors for 20 distinct courses next semester, with each professor assigned to teach exactly 2 courses and every course taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete assignment configurations can the 10 professors be allocated to the 20 courses?",
+      "It may seem counterintuitive, but suppose a university math department with 10 distinct professors must assign each professor to teach exactly 2 different courses out of 20 distinct courses, with each course taught by exactly one professor; if any professor may be assigned to any course, in how many distinct ways can the department make a full assignment of professors to the 20 courses?",
+      "A counterintuitive scheduling puzzle: A college math faculty consists of 10 professors and the upcoming term lists 20 distinct courses. Each professor must be assigned exactly two different courses to teach, and every course is taught by exactly one professor. Professors may be assigned to any courses without restriction. In how many distinct complete assignment configurations can the 20 courses be distributed among the 10 professors?"
+    ],
+    "ranking": [
+      "A college math department needs to assign 20 distinct courses to its 10 professors so that each professor is responsible for exactly 2 different courses and each course is taught by exactly one professor; in how many distinct ways can the courses be distributed among the professors (order of the two courses assigned to a given professor does not create a new assignment)?",
+      "A mathematics department at a college must rank and assign 20 distinct courses among its 10 faculty members so that each professor is ranked as responsible for exactly 2 of the courses and each course receives exactly one ranked professor; any professor may be ranked for any course. How many distinct full rankings (assignments of professors to courses, treating the two courses assigned to a professor as an unordered pair of responsibilities for that professor) are possible?",
+      "A university mathematics department must rank its 20 distinct upcoming courses by assigning each course to one of 10 professors so that every professor is ranked as the instructor for exactly two courses and every course is assigned to exactly one professor; any professor is eligible to teach any course. How many distinct complete assignments (rankings of professors to courses) are possible?"
+    ],
+    "alternating": [
+      "A college math department has 10 professors and plans to staff 20 distinct courses next term so that each professor teaches exactly two courses and every course is taught by exactly one professor; if any professor may be assigned to any course and assignments differing only by swapping the two course labels taught by the same professor are considered the same (i.e., alternations of the two courses taught by a professor are not distinguished), how many complete assignments of professors to the 20 courses are there?",
+      "A college math department has 10 faculty members and will run 20 distinct classes next term. Each faculty member will alternately be assigned exactly 2 distinct classes to teach, and every class will be taught by exactly one faculty member; any faculty member may be assigned to any class. In how many different ways can the department assign the 10 faculty to the 20 classes so that each faculty teaches two classes?",
+      "A mathematics department with 10 professors must alternately assign teaching duties so that across the upcoming term each professor is responsible for exactly 2 of the 20 distinct courses and every course is taught by a single professor; if any professor may be assigned to teach any course, in how many different complete assignments of professors to the 20 courses are possible?"
+    ],
+    "unambiguous": [
+      "A college mathematics department employs 10 distinct professors and needs to assign each of the 20 distinct courses offered next term to exactly one professor, with the constraint that every professor is scheduled to teach precisely two courses; assuming there are no restrictions on which professor may teach which course, in how many unambiguous ways can the department produce a complete assignment of professors to courses?",
+      "A university has 10 mathematics professors and plans to offer 20 distinct courses next semester. Every professor will be assigned to teach exactly two distinct courses, and each course will be taught by exactly one professor. Assuming any professor may be assigned to any course, how many distinct complete assignments of professors to courses are possible?",
+      "A mathematics department has 10 distinct professors and will schedule 20 distinct courses next semester so that each professor is assigned to teach exactly 2 different courses and every course is taught by exactly one professor; assuming any professor may be assigned to any course, in how many unambiguous complete assignment ways can the professors be matched to the 20 courses?"
+    ],
+    "commanding": [
+      "Command the assignment: A university math department employs 10 professors and must allocate responsibility for 20 distinct courses next semester so that each professor is tasked with exactly 2 courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct complete assignment configurations can you assign the 10 professors to the 20 courses?",
+      "Command the allocation of 10 professors to teach 20 distinct courses next semester, where each professor must be assigned exactly 2 different courses and each course is taught by exactly one professor; assuming every professor is eligible to teach any course, how many distinct complete assignment arrangements are possible?",
+      "Assign the 10 professors in a math department to teach the 20 courses next semester so that each professor is forced to teach exactly two courses and every course is taught by exactly one professor; assuming any professor may be assigned any course, in how many distinct complete assignment configurations can you command this allocation?"
+    ],
+    "comparable": [
+      "A university mathematics department with 10 comparable professors must staff 20 distinct courses next term so that each professor is assigned exactly two courses and each course is taught by exactly one professor; assuming any professor may be paired with any course, in how many different complete assignments of professors to the 20 courses can be made?",
+      "A university math department with 10 professors must staff 20 distinct courses next semester so that each professor teaches exactly 2 courses and each course is taught by exactly one professor; if any professor is eligible to teach any course and assignments that are comparable (i.e., differ only by swapping the two courses taught by the same professor are considered equivalent), how many distinct complete assignments of professors to courses are possible?",
+      "A mathematics department with 10 comparable professors will each be assigned exactly 2 of the 20 distinct courses offered next semester, with every course taught by exactly one professor; if any professor is eligible to teach any course, in how many distinct complete assignments of professors to courses can the department make?"
+    ],
+    "unnecessary": [
+      "A college math department has 10 faculty members and needs to cover 20 distinct classes next term, assigning each faculty member to teach exactly 2 different classes and each class to be taught by exactly one faculty member; if any faculty member may teach any class, how many distinct full assignment patterns (where only which professor teaches which class matters, and no unnecessary distinctions are made) are possible?",
+      "A math department with 10 professors must assign each professor exactly two distinct courses out of 20 different courses so that every course has exactly one professor; assuming any professor can teach any course and that within a professor's pair the order of the two courses is irrelevant, in how many distinct complete assignment schemes can the 20 courses be allocated to the 10 professors under these constraints?",
+      "A mathematics department has 10 professors and plans to staff 20 distinct courses next term so that each professor teaches exactly two courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many distinct ways can the full assignment be made given that labeling which of the professor’s two courses is which is unnecessary?"
+    ],
+    "well thought out": [
+      "A university mathematics department, consisting of 10 professors, will offer 20 distinct courses next semester. Each professor is to be assigned exactly two courses, and each course will be taught by exactly one professor. Assuming any professor may teach any course, in how many different complete assignments of professors to the 20 courses are possible, given a well thought out counting of the arrangements?",
+      "A university mathematics department, after careful planning, must produce a complete teaching schedule that assigns each of its 10 professors exactly two distinct courses from a list of 20 different offerings, with every course taught by exactly one professor; assuming any professor may teach any course, how many distinct full assignments of professors to courses are possible?",
+      "A university math department with 10 distinct professors must assign each professor to teach exactly two distinct courses out of 20 different courses next semester, with each course taught by exactly one professor; assuming any professor may be assigned to any course, in how many well-thought-out distinct complete assignments of professors to the 20 courses are possible?"
+    ],
+    "incomputable": [
+      "A college math faculty of 10 instructors must be scheduled so each instructor is responsible for exactly 2 of the 20 distinct classes offered next term, and every class is assigned to one instructor; count the number of possible full assignments (treat instructors and classes as distinguishable) — think about arrangements even though some combinatorial counts can become effectively incomputable?",
+      "A mathematics department with 10 professors must assign each professor to teach exactly 2 of the 20 available courses next semester, with every course taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete assignment configurations (where assignments that are identical except for swapping the order in which a professor's two courses are listed are considered the same) can the department assign professors to courses considering that treating an explicit ordering of the two courses per professor would create an incomputable overcount?",
+      "A mathematics faculty with 10 members must be paired with 20 distinct classes so that every faculty member teaches exactly two different classes and every class is taught by exactly one faculty member. Treat each specific pairing of professors to courses as a complete assignment; assuming there are no teaching restrictions and the mapping from professors to courses is fully unconstrained (so the combinatorial allocation is computable but, by design, treated as an incomputable enumeration problem in principle), how many distinct complete assignments of the 10 professors to the 20 courses are there?"
+    ],
+    "modifiable": [
+      "A college math department employs 10 professors and needs to allocate 20 distinct courses next term so that every professor is assigned exactly two courses and each course is taught by a single professor; assuming any professor may be assigned to any course and assignments are considered modifiable only by swapping individual course assignments, in how many different complete assignment configurations can the 10 professors be paired with the 20 courses?",
+      "A university mathematics department has 10 professors and plans to staff 20 distinct courses next semester, assigning each professor to teach exactly two courses and each course to have one professor; if any professor may be chosen to teach any course, in how many different full assignments of professors to the 20 courses can the department make when assignments are considered distinct by which professor teaches which course, accounting for the fact that each professor’s two-course load is unordered (i.e., modifiable without changing the assignment)?",
+      "A college math department with 10 professors will offer 20 distinct courses next term; each professor must be assigned exactly two different courses and every course must be assigned to exactly one professor. Assuming any professor may be assigned to any course, in how many distinct ways can the full assignment of professors to courses be made, given that assignments that differ only by swapping the two courses taught by the same professor are considered the same (i.e., each professor is assigned an unordered pair of courses)?"
+    ],
+    "adaptable": [
+      "A college math department with 10 faculty members must allocate exactly 2 distinct courses to each faculty member from a list of 20 different courses, with every course taught by exactly one faculty member; assuming any faculty member can be assigned to any course, in how many distinct complete assignment configurations can the department adaptably distribute the 20 courses among the 10 professors?",
+      "A college math department has 10 faculty members and plans to run 20 distinct classes next term. Each faculty member will be scheduled to teach exactly two of the classes, and each class will be taught by exactly one faculty member. Professors are interchangeable in the sense that any of the 10 can be assigned to any class. Counting all possible full assignment schedules (where every class is assigned and every professor teaches two classes), how many distinct assignments are there?",
+      "A university mathematics faculty comprises 10 adaptable professors who between them will collectively cover 20 distinct courses next semester, with each professor responsible for exactly 2 courses and each course taught by exactly one professor; if any professor is eligible to be scheduled for any course, in how many different ways can the department assign professors to all 20 courses?"
+    ],
+    "declarative": [
+      "A mathematics department with 10 professors must assign each professor to teach exactly two of the 20 distinct courses offered next semester, with each course taught by exactly one professor; assuming any professor may be assigned to any course, how many complete assignments of professors to courses are there?",
+      "There are 10 professors and 20 distinct courses; each professor is to be assigned exactly two different courses and each course exactly one professor, with any professor eligible to teach any course — how many distinct complete assignments of professors to courses exist?",
+      "A university mathematics department consists of 10 professors and there are 20 distinct courses to be taught next semester; each professor is assigned exactly two distinct courses and every course is assigned exactly one professor, with any professor eligible to teach any course, so determine the total number of complete assignments of professors to the 20 courses?"
+    ],
+    "converse": [
+      "Converse the original assignment problem: there are 20 distinct courses and 10 professors, with each professor teaching exactly 2 courses and each course taught by exactly one professor; in how many distinct ways can the professors be assigned to the 20 courses when any professor may teach any course?",
+      "Converse to the usual assignment problem: given 10 professors and 20 distinct courses where each professor is to be assigned exactly 2 courses and each course exactly one professor, in how many distinct ways can the professors be allotted to the courses if any professor may teach any course?",
+      "A university’s mathematics department comprises 10 professors and will offer 20 distinct courses next semester. Each course is to be taught by exactly one professor, and conversely each professor will teach exactly 2 courses. Assuming every professor is eligible to teach any course, in how many different ways can the department assign professors to the 20 courses so that each professor teaches exactly two courses?"
+    ],
+    "accommodating": [
+      "A mathematics department with 10 professors must accommodate teaching assignments for 20 distinct courses next semester so that each professor is assigned exactly 2 courses and each course is assigned to exactly one professor; if any professor may be assigned any course, in how many different complete ways can the 10 professors be assigned to the 20 courses?",
+      "A university mathematics department must accommodate teaching assignments for 20 distinct courses next semester using its 10 professors so that each professor is assigned exactly two courses and each course is taught by exactly one professor; if any professor may be assigned to any course, in how many different ways can the department accommodate a complete assignment of professors to the 20 courses?",
+      "A college mathematics department needs to accommodate scheduling by assigning 10 professors to teach 20 distinct courses next semester so that each professor is responsible for exactly 2 courses and each course has exactly one professor; if any professor may be assigned to any course, in how many different complete assignment arrangements can the department accommodate these requirements?"
+    ],
+    "trial-and-error": [
+      "A university mathematics department must assign 10 professors to teach 20 distinct courses next semester, with each professor responsible for exactly 2 different courses and each course taught by exactly one professor; by using a trial-and-error reasoning approach (for example, imagining sequentially choosing pairs of courses for professors and accounting for orderings that overcount identical assignments), how many distinct complete assignments of professors to courses are possible?",
+      "A college math department has 10 faculty members and needs to assign instructors to 20 distinct course sections next term so that each faculty member teaches exactly 2 distinct sections and every section is taught by exactly one faculty member; assignments can be chosen freely without restrictions (you may use trial-and-error reasoning to check small cases). In how many different ways can the department assign the 10 faculty to the 20 sections so that each faculty member ends up with exactly two sections?",
+      "A college needs to assign 10 professors to cover 20 distinct courses next term so that each professor teaches exactly two different courses and every course has exactly one professor; using a trial-and-error approach one might count the number of complete assignments by ordering the 20 course slots and then pairing identical-professor placements — how many distinct full assignments are there?"
+    ],
+    "comparable with": [
+      "A university mathematics department comparable with having 10 professors must staff 20 distinct courses next semester. Each professor is to be assigned exactly two courses, and each course is to be taught by exactly one professor. Assuming any professor may teach any course, in how many distinct ways can the department assign professors to all 20 courses so that each professor ends up with exactly two courses?",
+      "A university math department has 10 professors and plans to staff 20 distinct courses next term so that each professor is assigned exactly two different courses and each course is taught by exactly one professor; assignments are comparable with any professor being eligible to teach any course — in how many distinct complete assignment configurations can the 10 professors be matched to the 20 courses?",
+      "A university mathematics division employs 10 faculty members and plans to schedule instruction for 20 distinct courses next term. Each faculty member will be responsible for exactly two of the courses, and every course will be taught by exactly one faculty member; instructors are comparable with any course (i.e., there are no restrictions on which faculty can teach which course). In how many distinct ways can the department assign the 10 professors to the 20 courses so that each professor teaches two courses and each course has a single professor?"
+    ],
+    "subordinating": [
+      "A university math department needs to assign each of its 10 professors to teach exactly two distinct courses out of 20 available courses, with each course taught by exactly one professor; assuming every professor is eligible to teach any course, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A university mathematics department, subordinating instruction among its faculty, has 10 professors and will offer 20 distinct courses next semester; each professor is to be responsible for exactly 2 courses and every course must have exactly one professor assigned — if any professor may be assigned to any course, in how many different complete assignments of the 10 professors to the 20 courses are possible?",
+      "A college math faculty consists of 10 professors and there are 20 distinct courses to be staffed next term; each professor is to be subordinated to exactly two courses (i.e., assigned to teach two courses) and each course is subordinated to exactly one professor (i.e., taught by a single professor). Assuming any professor may be assigned to any course, in how many different complete assignments of professors to the 20 courses are possible?"
+    ],
+    "feasible": [
+      "A college has 10 faculty members in its math division and plans to staff 20 distinct course sections next term so that every faculty member is assigned exactly two sections and each section is taught by exactly one faculty member; any faculty member is eligible to teach any section. How many feasible complete assignments of faculty to the 20 sections are there?",
+      "A college math department has 10 faculty members and plans to staff 20 distinct courses next term so that every instructor is assigned exactly two courses and each course is taught by exactly one instructor; assuming any faculty member may feasibly teach any course, in how many different complete assignments of instructors to the 20 courses are possible?",
+      "A university mathematics department has 10 professors and will need instructors for 20 distinct courses next semester. Each professor must be feasibly assigned to teach exactly two distinct courses, and every course must be taught by exactly one professor. Assuming any professor is eligible to teach any course, in how many different complete assignments of professors to the 20 courses are feasible?"
+    ],
+    "accomplishable": [
+      "A university's mathematics department has 10 professors available to cover 20 distinct courses next semester; each professor is to be assigned exactly two distinct courses and each course is to be taught by exactly one professor. Assuming every assignment that respects these constraints is accomplishable (i.e., any professor may be assigned any pair of courses), in how many distinct complete assignments of professors to the 20 courses are there?",
+      "A college mathematics department with 10 faculty members must staff 20 distinct courses next semester so that each faculty member teaches exactly 2 different courses and every course is taught by exactly one faculty member; assuming any faculty member can be assigned any course, in how many accomplishable ways can the department assign the 10 professors to the 20 courses?",
+      "A college has 10 mathematics instructors and needs to assign each of 20 distinct classes to exactly one instructor so that every instructor is responsible for exactly 2 classes; if any instructor may teach any class, in how many distinct ways can the full assignment of instructors to the 20 classes be accomplished?"
+    ],
+    "invertible": [
+      "A university math faculty comprises 10 professors and there are 20 distinct courses scheduled for next semester; each professor will be responsible for exactly two distinct courses, and every course is to be taught by exactly one professor. Assuming any professor may be assigned to any course and that the two-course load per professor is unordered (so swapping the two courses assigned to the same professor does not create a new assignment), in how many different complete assignments of professors to courses can the department make, bearing in mind that the roles assigned to individual professors are distinguishable and that the invertible swapping of the two courses for a given professor does not produce a new assignment?",
+      "A college math department has 10 instructors and there are 20 distinct courses to be taught next term. Each instructor will be assigned exactly two distinct courses, and every course is assigned exactly one instructor. Assuming any instructor may teach any course, in how many distinct ways can the department assign the 10 instructors to the 20 courses so that each instructor ends up with two courses (note that the two-course assignments to an instructor are unordered)?",
+      "A university mathematics department has 10 professors who together will cover 20 distinct courses next semester, with each professor teaching exactly 2 courses and each course taught by exactly one professor; if every course may be assigned to any professor and assignments are considered distinct only by which professor teaches which course (not by ordering within a professor’s pair), in how many invertible-complete ways can the 10 professors be assigned to the 20 courses?"
+    ],
+    "on the offensive": [
+      "The math department fields an offensive lineup of 10 professors to cover 20 distinct courses next term; each professor is scheduled to teach exactly 2 different courses and every course is taught by exactly one professor. Assuming any professor can be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department arrange their teaching roster?",
+      "A university’s mathematics faculty lineup consists of 10 professors who together must cover 20 distinct courses next term; each professor is assigned exactly two distinct courses and each course is taught by exactly one professor. Assuming every professor is eligible to teach any course, in how many different ways can the department assign professors to courses (counting each complete assignment of professors to the 20 courses as distinct)?",
+      "A university math department with 10 professors plans an aggressive schedule: there are 20 distinct courses next semester and each professor will be assigned exactly 2 courses while every course is taught by exactly one professor; assuming any professor may be assigned to any course, in how many distinct complete assignments of professors to the 20 courses can the department go on the offensive?"
+    ],
+    "educated": [
+      "An educated scheduling committee in a university mathematics department must assign 10 professors to teach 20 distinct courses next semester so that each professor teaches exactly 2 courses and each course is taught by exactly one professor; if any professor may be chosen for any course, in how many different ways can the committee complete the full assignment?",
+      "An educated mathematics faculty of 10 professors must be scheduled to teach 20 distinct courses next term, with the constraint that each professor is responsible for exactly two different courses and each course is taught by exactly one professor; assuming every professor is eligible to teach any course, in how many different ways can the department assign professors to the 20 courses?",
+      "An educated assignment problem: a university math department with 10 professors must cover 20 distinct courses next semester, allocating exactly 2 courses to each professor and exactly one professor per course; assuming any professor is eligible to teach any course, in how many distinct ways can the department assign professors to all 20 courses?"
+    ],
+    "unabridged": [
+      "A university mathematics department with an unabridged roster of 10 professors will offer 20 distinct courses next semester; each professor will be assigned exactly two courses and every course will be taught by exactly one professor. If any professor may be assigned any course, in how many different full assignments of professors to the 20 courses can the department arrange the teaching loads?",
+      "A university mathematics department consists of 10 professors and will offer 20 distinct courses next semester. Every professor must be assigned exactly two courses to teach, and each course is to be taught by exactly one professor; any professor is eligible to teach any course. In an unabridged count of all possible complete assignments of professors to courses under these conditions, how many assignments are there?",
+      "A university mathematics department comprises 10 professors and plans to offer 20 distinct courses next semester; each professor will be assigned to teach exactly two different courses and every course will be taught by a single professor. Assuming any professor is eligible to teach any course, in how many distinct full assignments of professors to the 20 courses (with each professor assigned to exactly two courses) can the department arrange its teaching schedule?"
+    ],
+    "cohesive": [
+      "A university mathematics department employs 10 professors and plans to offer 20 distinct courses next semester; every professor will be tasked with teaching exactly two courses and each course will be assigned to exactly one professor. Assuming any professor may be assigned to any of the courses, in how many cohesive ways can the department assign the 10 professors to cover all 20 courses such that each professor teaches two courses?",
+      "A university mathematics department has 10 professors who will together teach 20 distinct courses next semester, with each professor assigned exactly two different courses and each course taught by exactly one professor; assuming any professor may be assigned to any course, in how many cohesive ways can the department assign professors to all 20 courses?",
+      "A university math department has 10 faculty members who together will cover 20 distinct courses next term, with each faculty member responsible for exactly 2 courses and each course taught by exactly one faculty member; assuming any faculty member may be assigned any course, in how many different cohesive full assignment arrangements of professors to the 20 courses can be made?"
+    ],
+    "improvable": [
+      "A university math department with 10 professors must assign every one of 20 distinct courses to exactly one professor so that each professor teaches exactly 2 courses; every professor is eligible to teach any course. How many distinct complete assignment configurations are possible, counting which professor teaches which two specific courses as significant, and treating the two courses assigned to a professor as an unordered pair (i.e., assignments that differ only by swapping the two courses of the same professor are not considered different)?",
+      "A mathematics department at a university employs 10 professors and needs to staff 20 distinct courses next semester so that each professor is assigned exactly two courses and every course is taught by exactly one professor; assuming any professor may teach any course and that assignments which differ only by swapping the two courses assigned to the same professor are considered the same (i.e., each professor’s pair of courses is unordered), in how many distinct complete assignments of professors to the 20 courses can the department be made, given the arrangement is improvable only by relabeling the two-course allocations per professor?",
+      "A math department has 10 faculty members and will schedule instructors for 20 distinct classes next term so that each faculty member is assigned exactly two distinct classes and every class is assigned exactly one instructor; if any faculty member may teach any class, in how many distinct ways can the complete instructor-to-class assignments be made?"
+    ],
+    "at variance": [
+      "A university mathematics department employs 10 professors and plans to staff 20 distinct courses next semester so that each professor is assigned exactly two courses and each course is taught by exactly one professor; assignments that are at variance only by swapping the order of the two courses assigned to the same professor are considered identical. If any professor may teach any course, in how many distinct complete assignments of professors to the 20 courses are possible?",
+      "A university mathematics department, which is at variance with having unequal teaching loads, has 10 professors and plans to offer 20 distinct courses next semester; each professor must be assigned exactly 2 courses and each course exactly one professor. If any professor may be assigned to any course, in how many different complete assignments of professors to the 20 courses are possible?",
+      "A university math department with 10 professors must assign each professor to teach exactly 2 distinct courses out of 20 offered next semester, with every course taught by exactly one professor; in how many ways can the department make complete assignments of professors to courses, counting assignments that differ by which professor teaches which specific course as different, and noting that arrangements at variance only in the ordering of the two courses assigned to a given professor are not to be considered distinct?"
+    ],
+    "many": [
+      "A university’s mathematics department has many professors, specifically 10, and will offer many courses, specifically 20, next semester. Each of these 10 professors will be assigned exactly 2 of the 20 courses, and each course will be taught by exactly one professor. If any professor may be assigned to teach any course, in how many different ways can the department assign professors to all 20 courses so that every professor teaches exactly 2 courses and every course has exactly one instructor?",
+      "A university has many mathematics professors — precisely 10 — and will run many different courses next semester — precisely 20. Each professor is to be responsible for exactly 2 distinct courses, and every course must be taught by exactly one professor. If any of the professors may be assigned to teach any of the courses, in how many distinct complete assignments of the 10 professors to the 20 courses are possible?",
+      "A college has many mathematics faculty members: there are 10 professors available to teach many different classes, with 20 distinct course sections offered next term. Each professor will be responsible for exactly 2 different course sections, and every section must be taught by exactly one professor. If any professor may be assigned to any section, in how many distinct ways can the department assign professors to all 20 sections so that each professor teaches two sections?"
+    ],
+    "adjusted": [
+      "A university mathematics department must adjust its teaching schedule: there are 10 professors and 20 distinct courses next semester, and after the adjustment each professor will be assigned exactly two different courses while every course is taught by exactly one professor; if any professor may teach any course, in how many distinct ways can the department assign professors to courses?",
+      "An adjusted scheduling problem: a university math department with 10 professors must assign each professor to teach exactly 2 of the 20 distinct courses offered next semester, with every course taught by exactly one professor; assuming any professor may be assigned to any course and assignments are distinguished only by which professor teaches which course, in how many different complete assignments of the 10 professors to the 20 courses are possible?",
+      "A university math department has 10 professors and needs to assign them so that each professor teaches exactly two of the 20 distinct courses offered next semester, with each course taught by exactly one professor; assuming any professor can be assigned to any course and treating assignments that differ only by swapping the two courses taught by a given professor as adjusted into the same labeling, how many complete assignments of professors to courses are possible?"
+    ],
+    "focused": [
+      "A math department has 10 professors and 20 distinct courses. Each professor is to be assigned exactly two different courses, and each course must be taught by exactly one professor. Assuming any professor may teach any course, in how many distinct complete assignment configurations can the department assign professors to the 20 courses?",
+      "A mathematics department has 10 faculty members and needs to assign each of 20 distinct courses to exactly one faculty member so that every faculty teaches exactly two courses; assuming any faculty member can teach any course, in how many distinct complete assignment configurations can the department allocate the 20 courses among the 10 faculty members (order of the two courses taught by a given faculty does not matter)?",
+      "A university math department has 10 professors and will offer 20 distinct courses next semester. Each professor must be assigned exactly two courses and every course must be assigned to exactly one professor. If any professor may teach any course, in how many focused ways can the department assign professors to all 20 courses?"
+    ],
+    "improbable": [
+      "A college math department with 10 professors must staff 20 distinct courses next term so that every course has exactly one instructor and each professor teaches exactly two courses; assuming it is not forbidden or otherwise improbable that any professor could be assigned to any course, in how many distinct complete assignment patterns can the department allocate professors to the 20 courses?",
+      "It seems improbable that no constraints prevent any professor from teaching any course: the mathematics department has 10 professors who together will cover 20 distinct courses next term, with each professor assigned exactly 2 courses and each course taught by exactly one professor; under these conditions, in how many distinct ways can the 20 courses be assigned to the 10 professors?",
+      "It seems highly improbable that any restrictions would prevent it: a college has 10 math faculty and schedules 20 distinct classes next term, with each faculty member assigned exactly two of the classes and each class taught by exactly one faculty member; if every faculty member is equally eligible to teach every class, in how many distinct ways can the department assign the 10 professors to the 20 courses?"
+    ],
+    "blended": [
+      "A university math department with 10 professors must staff 20 distinct courses next semester, assigning each professor to teach exactly two courses and each course to a single professor; if any professor may be paired with any course, in how many blended ways can the full assignment of professors to the 20 courses be arranged?",
+      "A university's math department with 10 professors will run 20 distinct courses next semester, and each professor is to be blended into the schedule by being assigned exactly two courses while every course is assigned to exactly one professor; if any professor is eligible to teach any course, in how many different complete assignments of professors to the 20 courses can the department form?",
+      "A university mathematics department with 10 professors must cover a roster of 20 distinct courses next semester. Each professor will be assigned exactly two courses, and each course will be taught by exactly one professor; any professor may be assigned to any course. Using this blended distribution of teaching loads across professors, in how many distinct ways can the department assign professors to the 20 courses?"
+    ],
+    "overriding": [
+      "A mathematics department needs to assign each of its 10 professors to teach exactly 2 of the 20 distinct courses offered next semester so that every course has exactly one professor; treating professors as distinct and courses as distinct, in how many ways can the department make a complete assignment if any professor may be assigned to any course, with no additional restrictions or overrides on assignments?",
+      "A department must override default scheduling so that each of 10 faculty members is assigned exactly two of the 20 distinct courses next term, with every course taught by exactly one faculty member; if any faculty member may be assigned to any course, in how many different complete assignment configurations (counting which professor teaches which two courses) can the department override the schedule to produce a full assignment?",
+      "A mathematics department has 10 faculty members and there are 20 distinct courses to be taught next term. Each faculty member will be assigned exactly two distinct courses and every course is assigned to exactly one faculty member; any faculty member may be assigned any course. How many complete assignments of faculty to courses are possible, treating assignments that differ only by swapping the order of the two courses assigned to a given faculty member as identical?"
+    ],
+    "bipartite": [
+      "Consider a bipartite assignment between a set of 10 professors and a set of 20 distinct courses where each professor is matched to exactly two courses and each course is matched to exactly one professor; if every professor is eligible to teach any course, in how many distinct complete bipartite matchings (assignments of professors to courses) are possible?",
+      "In a bipartite assignment problem, one part consists of 10 professors and the other consists of 20 distinct courses; each professor is to be matched to exactly two courses and each course to exactly one professor, with every professor eligible to teach any course—how many distinct complete matchings of professors to courses are there?",
+      "In a bipartite assignment between a set of 10 professors and a set of 20 courses where each professor is matched to exactly two distinct courses and each course is matched to exactly one professor, in how many distinct ways can the full matching from professors to courses be formed?"
+    ]
+  }
+}

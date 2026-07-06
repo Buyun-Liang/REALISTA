@@ -1,0 +1,9 @@
+torch==2.7.0
+transformers==4.47.1
+sentence-transformers
+datasets
+numpy==2.2.5
+tqdm==4.67.1
+nltk
+openai
+python-dotenv
